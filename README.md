@@ -15,3 +15,11 @@ It finds the most common ingredient in all drinks, cuts the list of drinks down 
 It is possible that this is not the best algorithim, because, for example, the sum of tequila and rum drinks along with four other ingredients could be more than the total number of vodka drinks with those four other ingredients, but the greedy algorithim wouldn't detect that. 
 There are 510 ingredients, and so 510 + (510! / (2! (510 - 2)!)) + (510! / (3! (510 - 3)!)) + (510! / (4! (510 - 4)!)) + (510! / (5! (510 - 5)!)) = 510 + 129795 + 21978620 + 2785790085 + 281921956602 = 284,729,855,612 or about 284 billion combinations of ingredients possible (without duplication, so no cocktail that's 5 instances of vodka). 
 It may be that a dynamic programming approach would be more successful, but I haven't determined if this problem has optimal substructure. 
+
+### ROS code
+
+The drinkbot uses [find object 2d](https://github.com/introlab/find-object), [gscam](https://github.com/ros-drivers/gscam), and [attention-tracker](https://github.com/chili-epfl/attention-tracker) for locating soda cans and determining if it is being looked at. 
+The pumps are controlled by an Arduino mini that the control script talks to using [pyfirmata](https://github.com/tino/pyFirmata). 
+The script also isn't done, but it already has probably the gnarliest dictionary comprehension I've personally written in it. 
+
+Somday soon, I'll put a full "how to build and install everything" here, but it's pretty painless. 
