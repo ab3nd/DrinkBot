@@ -47,7 +47,7 @@ from find_object_2d.msg import ObjectsStamped
 from visualization_msgs.msg import Marker
 
 #Indexed by pump number, which is written on the pump
-pinMap = [8, 9, 5, 4, 6]
+pin_map = [8, 9, 5, 4, 6]
 
 #Object numbers to names
 #Use GFTT detector, ORB descriptor
@@ -59,7 +59,7 @@ detector_from_soda = {"dr_pepper":[69, 70, 71, 72],
 
 #Turns the above map inside out, to map image IDs to soda names. 
 #Look, it just does, OK, relax and go with it. 
-soda_from_detector =  {imgId:key for key in soda_from_detector for imgId in soda_from_detector[key]}
+soda_from_detector =  {imgId:key for key in detector_from_soda for imgId in detector_from_soda[key]}
 
 # Make sure you set the pumps up like this
 pump_from_soda = {"dr_pepper":0, 
@@ -70,8 +70,13 @@ pump_from_soda = {"dr_pepper":0,
 
 class DrinkDriver:
 	def __init__(self):
-		#self.board = Arduino('/dev/ttyUSB0')
+		#Connect to the pump driver
+		self.board = Arduino('/dev/ttyUSB0')
 		
+		#Turn off all pumps
+		for pin in pin_map:
+			self.board.digital[pin].write(0)
+
 		#Keep a list of the soda cans the robot can see
 		self.visibleCans = []
 		self.lastSawCans = None
@@ -83,33 +88,32 @@ class DrinkDriver:
 		self.fovSub = rospy.Subscriber("/estimate_focus", Marker, self.getFoV)
 		self.canIDSub = rospy.Subscriber("/objects", Float32MultiArray, self.getCanIDs)
 
-		print "init ended"
 
-	def pumpDrink(self, pumpNumber, duration):
+	def pumpDrink(self):
 		#If robot has been looked at in the last 5 seconds
-		if (rospy.Time.now() - self.lastLookedAt) < rospy.Duration(5, 0):
+		if self.lastLookedAt is not None and (rospy.Time.now() - self.lastLookedAt) < rospy.Duration(5, 0):
+			rospy.loginfo("Robot was looked at")
 			#And if there has been a soda seen 
 			if len(self.visibleCans) > 0:
-				print "***SAW BOTH!***"
+				rospy.loginfo("Robot has cans")
 				#Get the last seen soda
-				# 46-48 Dr Pepper
-
+				soda = soda_from_detector[self.visibleCans[0]]
 				#Translate that to a pump number
-
+				pump = pump_from_soda[soda]
+				rospy.loginfo("Pumping {0}".format(soda))
 				#Translate that to a pin number
-
+				pin = pin_map[pump]
 				#Turn the pin high
-
+				self.board.digital[pin].write(1)
 				#Delay for a while
-
+				pump_time = rospy.Duration(3)
+				rospy.sleep(pump_time)
 				#Turn pin low
-
-				#Clear the timers		
-				pass
+				self.board.digital[pin].write(0)
+				#Clear the timers?
 
 	def getFoV(self, message):
 		self.lastLookedAt = message.header.stamp
-		print "."
 		
 	def getCanIDs(self, message):
 		#Throw away everything except the IDs
@@ -117,7 +121,7 @@ class DrinkDriver:
 		self.lastSawCans = rospy.Time.now()
 		if len(self.visibleCans) > 0:
 			print self.visibleCans
-			self.pumpDrink
+			self.pumpDrink()
 
 if __name__ == "__main__":
 	dd = DrinkDriver()
