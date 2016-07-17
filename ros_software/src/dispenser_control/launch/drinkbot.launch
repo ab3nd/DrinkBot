@@ -1,0 +1,5 @@
+<launch>
+	<include file="$(find attention_tracker)/launch/attention_tracking.launch"/>
+	<include file="$(find object_config)/launch/find_2d.launch" />
+	<node pkg="rviz" type="rviz" name="rviz" args="-d $(find dispenser_control)/drinkbot.rviz" />
+</launch>
