@@ -45,6 +45,8 @@ from sensor_msgs.msg import Range
 from std_msgs.msg import Float32MultiArray
 from find_object_2d.msg import ObjectsStamped
 from visualization_msgs.msg import Marker
+#from sound_play.msg import SoundRequest
+from sound_play.libsoundplay import SoundClient
 
 #Indexed by pump number, which is written on the pump
 pin_map = [8, 9, 5, 4, 6]
@@ -68,6 +70,20 @@ pump_from_soda = {"dr_pepper":0,
                   "sprite":3,
                   "coke":4}
 
+class Talker:
+	def __init__(self):
+		#self.talkPublisher = rospy.Publisher("/robotsound", SoundRequest, queue_size=1)
+		self.soundClient = SoundClient()
+		rospy.sleep(1)
+
+	def say(self, text):
+		self.soundClient.say(text, 'voice_kal_diphone')
+		# sr = SoundRequest()
+		# sr.sound = SoundRequest.SAY
+		# sr.arg = text
+		# rospy.loginfo("Talker saying {0}".format(text))
+		# self.talkPublisher.publish(sr)
+
 class DrinkDriver:
 	def __init__(self):
 		#Connect to the pump driver
@@ -88,6 +104,9 @@ class DrinkDriver:
 		self.fovSub = rospy.Subscriber("/estimate_focus", Marker, self.getFoV)
 		self.canIDSub = rospy.Subscriber("/objects", Float32MultiArray, self.getCanIDs)
 
+		#Talker for voice synthesis
+		self.talker = Talker()
+		self.talker.say("Drink driver initialization is done")
 
 	def pumpDrink(self):
 		#If robot has been looked at in the last 5 seconds
@@ -118,14 +137,19 @@ class DrinkDriver:
 	def getCanIDs(self, message):
 		#Throw away everything except the IDs
 		self.visibleCans = message.data[0::11]
-		self.lastSawCans = rospy.Time.now()
 		if len(self.visibleCans) > 0:
-			print self.visibleCans
-			self.pumpDrink()
+			logMsg = "Saw a {0} can".format(soda_from_detector[self.visibleCans[0]])
+			if self.lastSawCans is None:
+				self.talker.say(logMsg)
+			elif (rospy.Time.now() - self.lastSawCans) > rospy.Duration(20):
+				self.talker.say(logMsg)	
+			rospy.loginfo(logMsg)
+		self.lastSawCans = rospy.Time.now()
+		self.pumpDrink()
 
 if __name__ == "__main__":
-	dd = DrinkDriver()
 	rospy.init_node("dispenser_control")
+	dd = DrinkDriver()
 	rospy.spin()
 	
 
