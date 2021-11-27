@@ -1,0 +1,46 @@
+
+
+Also want a concordance of similar flavors (Strega is like a sweet chartreuse)
+and a hierarchy of abstraction (Laphroaig is a Islay is a scotch). This is 
+called an ontology. 
+
+Esquire
+
+    https://www.esquire.com/food-drink/drinks/recipes/a3801/tom-collins-drink-recipe/
+
+    They all seem to be the same up to "recipes", so a straightforward parser can pull them out
+
+    
+cocktaillove.com
+    Selenium parser, pretty straightforward
+
+mrboston.com
+    Ended up doing a selenium based parser
+
+liquor.com
+    Requests-based parser, was able to get about 560 cocktails
+
+Guardian has a drinks section
+    The Good Mixer has drinks starting from https://www.theguardian.com/food/series/the-good-mixer
+    and going on for several pages. 
+
+    The drink links are in 'a' tags with the class "u-faux-block-link-overlay__ js-headline-text",
+    because designing code to be read by humans is apparently for chumps. 
+
+    The "next page" link has rel="next" and data-link-name="Pagination view next". 
+
+    The actual drink pages are a big "fuck you" to the corpse of the semantic web, 
+    though. The content is in 
+    <div class="article-body-commercial-selector article-body-viewer-selector  dcr-ucgxn1">
+    the last parameter of which is an opaque string that varies from page to page. 
+
+    The drink name is in 'h2' tags, and then there's a 'p' with the serving size, 
+    and another p after that has the ingredients. Fortunately, they're all in 
+    'strong' tags, so they can be parsed out of the annotations. Unfortunately, 
+    the madlads over at the Guardian didn't put each ingredient in its OWN strong tag,
+    but they could probably be split on amounts by looking for numbers.  
+
+    The paragraph after that has the instructions, as its text. That, or there's an empty 
+    paragraph, because the Guardian is a trash fire. 
+
+Reddit drinking subreddits
