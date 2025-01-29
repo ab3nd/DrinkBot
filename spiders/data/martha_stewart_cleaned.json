@@ -5444,7 +5444,11 @@
                 "ingred_name": "Worcestershire sauce"
             },
             "Coarse salt",
-            "Juice of 1 lime",
+            {
+                "ingred_amount": "1",
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
             {
                 "ingred_amount": "1",
                 "ingred_unit": "teaspoon",
@@ -7185,7 +7189,11 @@
                 "ingred_unit": "cup",
                 "ingred_name": "vodka"
             },
-            "Juice of 1 lemon (about 3 tablespoons)",
+            {
+                "ingred_amount": "3",
+                "ingred_unit": "tablespoon",
+                "ingred_name": "lemon juice"
+            },
             {
                 "ingred_amount": "1",
                 "ingred_unit": "bottle",
@@ -7865,7 +7873,12 @@
                 "ingred_unit": "tablespoon",
                 "ingred_name": "sugar, plus more for glasses"
             },
-            "Juice of 4 limes, plus 2 wedges for glasses and twists for garnish",
+            "2 lemon wedges for glasses and twists for garnish",
+            {
+                "ingred_amount": "6",
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
             {
                 "ingred_amount": "6",
                 "ingred_unit": "tablespoon",
@@ -10393,7 +10406,11 @@
         ],
         "ingredients": [
             "Coarse salt",
-            "Juice of 1/2 yellow grapefruit, plus more for wetting rim of glass",
+            {
+                "ingred_amount": "1/6",
+                "ingred_unit": "cup",
+                "ingred_name": "grapfruit juice"
+            },
             "Ice",
             {
                 "ingred_amount": "1 1/4",
@@ -10848,7 +10865,11 @@
                 "ingred_unit": "cup",
                 "ingred_name": "vodka"
             },
-            "Juice of 1 lemon (about 3 tablespoons)",
+            {
+                "ingred_amount": "1 1/2",
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
             {
                 "ingred_amount": "1",
                 "ingred_unit": "bottle",
@@ -10878,7 +10899,11 @@
                 "ingred_unit": "cup",
                 "ingred_name": "vodka"
             },
-            "Juice of 1 lemon (about 3 tablespoons)",
+            {
+                "ingred_amount": "1 1/2",
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
             {
                 "ingred_amount": "1",
                 "ingred_unit": "bottle",
