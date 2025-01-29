@@ -798,7 +798,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "gin"
             },
-            "Dash of blue Curacao",
+            {
+                "ingred_amount": "1",
+                "ingred_unit": "dash",
+                "ingred_name": "blue curacao"
+            },
             "Ice cubes",
             {
                 "ingred_amount": "3",
@@ -3085,7 +3089,11 @@
                 "ingred_unit": "tablespoon",
                 "ingred_name": "amontillado sherry"
             },
-            "Dash of angostura bitters",
+            {
+                "ingred_amount": "1",
+                "ingred_unit": "dash",
+                "ingred_name": "angostura bitters"
+            },
             "Orange peel, for serving"
         ]
     },
@@ -5442,7 +5450,11 @@
                 "ingred_unit": "teaspoon",
                 "ingred_name": "freshly ground pepper"
             },
-            "Dash of hot sauce, such as Tabasco",
+            {
+                "ingred_amount": "1",
+                "ingred_unit": "dash",
+                "ingred_name": "hot sauce, such as Tabasco"
+            },
             "<a href=\"https://www.marthastewart.com/1155027/pickled-jalapenos-bloody-marys\">Pickled Jalapenos, for garnish</a>"
         ]
     },
