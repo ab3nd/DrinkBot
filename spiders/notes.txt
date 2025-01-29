@@ -1,4 +1,25 @@
 
+The data is pretty messy, as I collected it over multiple years and multiple 
+sites. I'm going to want to normalize a couple of different aspects of the 
+representation:
+
+- All liquids in the same units
+    - Might be centiliters
+    - dashes, barspoons, etc. need conversion
+- All names of cocktails in title case (Gin Martini, not GIN MARTINI)
+- Cocktials with matching names assigned a unique ID as well (Martini-01, etc.)
+- Ingredients normalized so largest amount is 1, others proportional to that
+    - Not so they sum to one, that loses relative scale
+- Some way of handling garnishes and muddled ingredients
+- Language modeling to normalize instructions
+
+Some exploratory stuff:
+- How many units are currently in use in the data, and how do they break down
+  in terms of frequency relative to the whole set?
+- How many ingredients are there? 
+    - Is there tooling to support building ontologies of this stuff in a 
+      reasonable way? Kind of like the Discovery of Grounded Theory, but with
+      at least a little automation support?
 
 Also want a concordance of similar flavors (Strega is like a sweet chartreuse)
 and a hierarchy of abstraction (Laphroaig is a Islay is a scotch). This is 
