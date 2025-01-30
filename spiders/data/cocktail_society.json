@@ -202,7 +202,7 @@
             "1 oz Pineapple juice",
             "0.25 oz grenadine",
             "1 dash Angostura bitters",
-            "Chilled club soda to top (about 2 oz)",
+            "2 oz Chilled club soda to top",
             "0.25 oz Dry red wine ((float))",
             "1  Orange slice (for garnish)",
             "1  Cherry (for garnish)"
@@ -387,11 +387,11 @@
         "name": "Watermelon Mojito Recipe",
         "ingredients": [
             "2 oz White Rum",
-            "1 cup Watermelon, cut into small pieces (about 2 oz)",
+            "1 cup Watermelon, cut into small pieces",
             "1 oz Lime juice",
             "0.5 tbsp Cane sugar",
             "6  Mint leaves",
-            "Club soda (about 1.5 oz)",
+            "1.5 Club soda",
             "ice"
         ],
         "instructions": [
