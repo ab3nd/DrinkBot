@@ -36,9 +36,9 @@
     {
         "name": "Chocolate Martini",
         "ingredients": [
-            "1\u00bd oz Vodka",
-            "1\u00bd oz Mozart Dark Chocolate Liqueur",
-            "1\u00bd oz Baileys",
+            "1.5 oz Vodka",
+            "1.5 oz Mozart Dark Chocolate Liqueur",
+            "1.5 oz Baileys",
             "Dark Chocolate shavings (for garnish)",
             "Chocolate syrup (for garnish)"
         ],
@@ -72,11 +72,11 @@
         "name": "Mezcal Dante Cocktail Recipe",
         "ingredients": [
             "1 oz Mezcal",
-            "0.5 oz Tequila Blanco\u00a0 ((silver Tequila))",
-            "\u2154 oz Fresh Lime Juice",
+            "0.5 oz Tequila Blanco  ((silver Tequila))",
+            "0.66 oz Fresh Lime Juice",
             "0.25 oz Agave Syrup",
-            "\u2153 oz Green Chartreuse",
-            "0.25 oz Mentzendorff K\u00fcmmel liqueur ((you may also use Linie Aquavit instead))",
+            "0.33 oz Green Chartreuse",
+            "0.25 oz Mentzendorff Kummel liqueur ((you may also use Linie Aquavit instead))",
             "5  Fresh basil leaves"
         ],
         "instructions": [
@@ -140,16 +140,16 @@
         "name": "Jack Frost",
         "ingredients": [
             "1 cup Pineapple juice",
-            "\u00bd cup Blue Cura\u00e7ao liqueur",
-            "\u00bd cup White rum",
-            "\u00bd cup Cream of coconut",
+            "0.5 cup Blue Curacao liqueur",
+            "0.5 cup White rum",
+            "0.5 cup Cream of coconut",
             "3-4 cups Crushed ice",
             "Light corn syrup (for rimming the glasses)",
-            "\u2153 cup Coconut flakes (for rimming the glasses)"
+            "0.33 cup Coconut flakes (for rimming the glasses)"
         ],
         "instructions": [
             "Start with rimming the glasses. Pour a thin layer of light corn syrup onto a shallow plate. Place the sweetened coconut flakes on another shallow plate. Then dip the rim of each cocktail glass into the corn syrup, then into the coconut flakes to coat. Set the glasses aside.",
-            "In a blender, add 3-4 cups of crushed ice. Pour in 1 cup of pineapple juice, 1/2 cup of Blue Cura\u00e7ao liqueur, 1/2 cup of light rum, and 1/2 cup of cream of coconut. Blend the whole mixture until smooth and slushy.",
+            "In a blender, add 3-4 cups of crushed ice. Pour in 1 cup of pineapple juice, 1/2 cup of Blue Curacao liqueur, 1/2 cup of light rum, and 1/2 cup of cream of coconut. Blend the whole mixture until smooth and slushy.",
             "Pour the blended cocktail into the prepared glasses. Garnish with additional coconut flakes or a pineapple wedge if desired."
         ]
     },
@@ -158,8 +158,8 @@
         "ingredients": [
             "2 oz Navy Rum",
             "2 oz water (hot or chilled)",
-            "\u00bd oz lemon juice",
-            "\u00bd oz Demerara syrup",
+            "0.5 oz lemon juice",
+            "0.5 oz Demerara syrup",
             "1  lemon wedge (for garnish)"
         ],
         "instructions": [
@@ -195,7 +195,7 @@
         "name": "Singapore Sling Cocktail Recipe",
         "ingredients": [
             "1 oz London Dry Gin",
-            "0.25 oz D.O.M. B\u00e9n\u00e9dictine",
+            "0.25 oz D.O.M. Benedictine",
             "0.25 oz Grand Marnier",
             "0.5 oz Heering cherry liqueur",
             "0.5 oz Freshly squeezed lime juice",
@@ -208,7 +208,7 @@
             "1  Cherry (for garnish)"
         ],
         "instructions": [
-            "Add Gin, D.O.M. B\u00e9n\u00e9dictine, Grand Marnier, Heering, pineapple juice, lime juice, and Angostura bitters into a cocktail shaker with lots of ice.",
+            "Add Gin, D.O.M. Benedictine, Grand Marnier, Heering, pineapple juice, lime juice, and Angostura bitters into a cocktail shaker with lots of ice.",
             "Shake the drink until it is well-chilled and then strain into a highball glass with ice.",
             "Top up with club soda.",
             "Gently float with red wine on top",
@@ -224,7 +224,7 @@
         ],
         "instructions": [
             "Add all ingredients into a cocktail shaker with plenty of ice.",
-            "Shake it until the drink is chilled and the outside of the shaker is frosted.\u00a0",
+            "Shake it until the drink is chilled and the outside of the shaker is frosted. ",
             "Strain the Gimlet into a chilled coupe glass.",
             "Optionally garnish it with a slice of lime."
         ]
@@ -235,8 +235,8 @@
             "2 oz Mezcal (Del Maguey vida or Montelobos Espadin)",
             "1 oz Blood orange juice (fresh)",
             "0.25 oz Homemade cinnamon syrup",
-            "\u2159 oz Velvet Falernum",
-            "\u2159 oz Fresh lime juice"
+            "0.166 oz Velvet Falernum",
+            "0.166 oz Fresh lime juice"
         ],
         "instructions": [
             "Chill your coupe glass in the freezer for 10 to 15 minutes before making the cocktail.",
@@ -302,7 +302,7 @@
         "name": "Blue Lagoon Cocktail Recipe",
         "ingredients": [
             "2 oz Vodka",
-            "1 oz Blue Cura\u00e7ao",
+            "1 oz Blue Curacao",
             "1 oz Simple syrup",
             "1.5 oz Freshly squeezed lemon juice"
         ],
@@ -356,7 +356,7 @@
         "ingredients": [
             "0.75 oz White Rum",
             "0.75 oz  Vodka",
-            "0.5 oz Blue Cura\u00e7ao",
+            "0.5 oz Blue Curacao",
             "3 oz fresh pineapple juice",
             "2 tsp fresh lime juice",
             "2 tsp fresh lemon juice",
@@ -471,8 +471,8 @@
         "ingredients": [
             "1 oz Aged Jamaican Rum",
             "1 oz Havana Club 3 years",
-            "1 oz Giffard Banane du Br\u00e9sil",
-            "0.5 oz Cr\u00e8me de M\u00fbre",
+            "1 oz Giffard Banane du Bresil",
+            "0.5 oz Creme de Mere",
             "2 oz Fresh pineapple juice",
             "1 oz Freshly squeezed lime juice",
             "0.25 oz Grenadine"
@@ -490,7 +490,7 @@
             "1 oz Pisco",
             "0.5 oz lemon juice (freshly squeezed)",
             "0.25 oz simple syrup",
-            "3.5 oz Ros\u00e9 Champagne"
+            "3.5 oz Rose Champagne"
         ],
         "instructions": [
             "Gently muddle the seedless grapes in your cocktail shaker",
@@ -589,7 +589,7 @@
             "0.5 oz White Rum",
             "0.5 oz Dry Gin",
             "0.5 oz Silver Tequila",
-            "0.5 oz Blue Cura\u00e7ao",
+            "0.5 oz Blue Curacao",
             "0.5 oz Lime juice",
             "0.5 oz Lemon juice",
             "0.5 oz Simple syrup",
@@ -605,7 +605,7 @@
         "name": "Farmer's Tan Cocktail Recipe",
         "ingredients": [
             "1.5 oz Reposado Mezcal",
-            "0.5 oz Orange Cura\u00e7ao",
+            "0.5 oz Orange Curacao",
             "0.5 oz Cardamaro",
             "3 drops Xocolatl mole bitters"
         ],
@@ -703,12 +703,12 @@
         "name": "White Russian",
         "ingredients": [
             "2 oz Vodka",
-            "1 oz Kahl\u00faa",
+            "1 oz Kahlua",
             "1 oz Heavy cream"
         ],
         "instructions": [
             "Fill an Old Fashioned glass with ice and set it aside.",
-            "Mix Vodka and Kahl\u00faa in a mixing glass with ice until well-chilled.",
+            "Mix Vodka and Kahlua in a mixing glass with ice until well-chilled.",
             "Strain the mix into the Old Fashioned glass.",
             "Gently float the heavy cream on top and gently swirl while serving."
         ]
@@ -810,11 +810,11 @@
             "0.25 oz Simple syrup",
             "1.5 oz Chilled soda water",
             "10-12  Mint leaves",
-            "Pomegranate seeds\u00a0"
+            "Pomegranate seeds "
         ],
         "instructions": [
             "Combine mint leaves, lime juice, and simple syrup. Then gently muddle the leaves to release their essential oils.",
-            "Add the other ingredients and fill the shaker \u2154 with ice.",
+            "Add the other ingredients and fill the shaker 0.66 with ice.",
             "Shake vigorously for 12-15 seconds.",
             "Use Hawthorne straine to strain the cocktail into an ice-filled (double) rocks glass.",
             "Top with chilled club soda. Then gently stir the drink.",
@@ -829,15 +829,15 @@
             "2 cups Milk",
             "1 cup Heavy cream",
             "1 cup Liquor ((Bourbon, Rum, or Brandy))",
-            "\u00bd tsp Cinnamon",
-            "\u00bd tsp Nutmeg",
-            "\u00bd tsp Vanilla extract"
+            "0.5 tsp Cinnamon",
+            "0.5 tsp Nutmeg",
+            "0.5 tsp Vanilla extract"
         ],
         "instructions": [
             "Add egg yolks and sugar into a large bowl and mix until well blended.",
             "Add milk, cinnamon, nutmeg, and vanilla extract into a small saucepan. Then, bring all to a low boil on medium heat while stirring.",
             "Slowly add the mixture to the bowl with sugar and add yolk. Ensure to combine everything is thoroughly before continuing with the next step.",
-            "Return the content of your bowl to your saucepan and heat it up to 160\u00b0F while stirring, use a thermometer for easy measuring. Then, remove the pot from the heat.",
+            "Return the content of your bowl to your saucepan and heat it up to 160F while stirring, use a thermometer for easy measuring. Then, remove the pot from the heat.",
             "Whisk in the heavy cream and your choice of rum, bourbon, or brandy while the mix is cooling.",
             "Strain the finished eggnog with the help of a fine-mesh strainer and store it in the fridge to chill before serving.",
             "When it&#39;s time to serve your eggnog, you can garnish it with spices like ground cinnamon, nutmeg, or a cinnamon stick."
@@ -847,7 +847,7 @@
         "name": "Frozen Mango Margarita Recipe",
         "ingredients": [
             "3 cups frozen, diced mango",
-            "6 oz Tequila (Reposado or A\u00f1ejo)",
+            "6 oz Tequila (Reposado or Anejo)",
             "2 oz Triple Sec",
             "3 oz fresh lime juice",
             "1 oz agave syrup",
@@ -898,11 +898,11 @@
     {
         "name": "Spicy Grapefruit Margarita Recipe",
         "ingredients": [
-            "1.5 oz Jalape\u00f1o infused Tequila",
+            "1.5 oz Jalapeno infused Tequila",
             "2 oz Freshly squeezed grapefruit juice",
             "1 oz Freshly squeezed lime juice",
             "0.5 oz Agave nectar",
-            "2-3 slices Jalape\u00f1o",
+            "2-3 slices Jalapeno",
             "1 tsp Chili powder",
             "1 tsp Coconut sugar ((alternatively regular granulated sugar))",
             "1 tsp Fleur de sel ((alternatively sea or kosher salt))",
@@ -913,7 +913,7 @@
             "Use the lime wedge to rim the glass and apply the spicy salt rim.",
             "Add Tequila, lime juice, grapefruit juice, and agave nectar to your cocktail shaker with plenty of ice.",
             "Shake until well-chilled and strain into prepared glasses over ice.",
-            "Garnish with sliced jalape\u00f1o and an optional slice of grapefruit or lime."
+            "Garnish with sliced jalapeno and an optional slice of grapefruit or lime."
         ]
     },
     {
@@ -944,7 +944,7 @@
             "Add rum, egg white, simple syrup, and lime juice in a cocktail shaker and shake - first without ice.",
             "After 15 seconds of heavy shaking, fill the shaker up with ice and shake for another 10 seconds.",
             "Double-strain through a Fine Mesh Strainer into a chilled old fashioned glass.",
-            "Add 2-3 drops of Angostura bitters on top.\u00a0"
+            "Add 2-3 drops of Angostura bitters on top. "
         ]
     },
     {
@@ -1084,8 +1084,8 @@
         "ingredients": [
             "1.5 oz Old Tom Gin",
             "1.5 oz Dry Vermouth",
-            "\u00bd tsp Maraschino Liqueur",
-            "\u00bd tsp Absinthe",
+            "0.5 tsp Maraschino Liqueur",
+            "0.5 tsp Absinthe",
             "3 dashes Orange bitters",
             "1  Maraschino cherry (for garnish)",
             "1  lemon peel (for garnish)"
@@ -1119,12 +1119,12 @@
             "2 oz Dry Gin",
             "1 oz Fresh Lemon Juice",
             "0.5 oz Sugar Syrup",
-            "0.75 oz Cr\u00e8me de M\u00fbre"
+            "0.75 oz Creme de Mere"
         ],
         "instructions": [
             "Add your Gin, fresh lemon juice, and sugar syrup into a shaker with ice.",
             "Shake until the drink is well-chilled and strain it into an Old Fashioned glass over crushed ice.",
-            "Gently pour the cr\u00e8me de M\u00fbre over the crushed ice - remember it has to be &quot;in a circular motion&quot;.",
+            "Gently pour the creme de Mere over the crushed ice - remember it has to be &quot;in a circular motion&quot;.",
             "Garnish with fresh blackberries and lemon wheel."
         ]
     },
@@ -1224,7 +1224,7 @@
             "1 oz Cognac",
             "1 oz White unaged Rum",
             "1 oz Triple sec ((Cointreau))",
-            "\u2154 oz Freshly squeezed lemon juice",
+            "0.66 oz Freshly squeezed lemon juice",
             "Orange peel ((for garnish))"
         ],
         "instructions": [
@@ -1275,7 +1275,7 @@
         ],
         "instructions": [
             "Before making the drink, infuse dark Rum with dried hibiscus flowers. Depending on the desired hibiscus intensity, this can take any time between 10 minutes to 24 hours. Check regularly to get the perfect amount of flavor for you.",
-            "Add White Rum, Orange Cura\u00e7ao, lime juice, orgeat, and squid ink into a cocktail shaker with crushed ice.",
+            "Add White Rum, Orange Curacao, lime juice, orgeat, and squid ink into a cocktail shaker with crushed ice.",
             "Shake for 5 to 8 seconds and &quot;dirt dump&quot; the contents of the shaker into your glass.",
             "Fill up with more crushed ice and float with hibiscus-infused dark Rum."
         ]
@@ -1305,12 +1305,12 @@
             "6  Mint leaves"
         ],
         "instructions": [
-            "In a cocktail shaker, place 4 blackberries, 6 mint leaves, \u00be oz rich turbinado simple syrup, and \u00be oz fresh lime juice. Gently muddle the ingredients to release the flavors without over-crushing the mint.",
+            "In a cocktail shaker, place 4 blackberries, 6 mint leaves, 0.75 oz rich turbinado simple syrup, and 0.75 oz fresh lime juice. Gently muddle the ingredients to release the flavors without over-crushing the mint.",
             "Pour in 2 oz of bourbon and add several ice cubes to the shaker.",
             "Secure the lid and shake the mixture vigorously for about 20 seconds or until well-chilled.",
-            "Add a couple ice cubes to a double old-fashioned glass.\u00a0Open the shaker and pour the\u00a0entire\u00a0contents into the glass, including the\u00a0muddled\u00a0ingredients.",
+            "Add a couple ice cubes to a double old-fashioned glass. Open the shaker and pour the entire contents into the glass, including the muddled ingredients.",
             "Pour 1 oz of club soda over the cocktail and stir gently to combine.",
-            "Garnish with extra mint leaves and the remaining blackberries if desired.\u00a0"
+            "Garnish with extra mint leaves and the remaining blackberries if desired. "
         ]
     },
     {
@@ -1397,10 +1397,10 @@
             "0.5 oz Triple Sec infused with Earl Grey tea",
             "0.75 oz Fresh lemon juice",
             "0.25 oz Agave syrup",
-            "2 slices Red jalape\u00f1o peppers (no seeds, thinly sliced)"
+            "2 slices Red jalapeno peppers (no seeds, thinly sliced)"
         ],
         "instructions": [
-            "Gently muddle the jalape\u00f1o slices in your cocktail shaker.",
+            "Gently muddle the jalapeno slices in your cocktail shaker.",
             "Fill it half way with ice, then measure and add the other ingredients.",
             "Seal the shaker and shake for 15 to 20 seconds.",
             "Double-strain into a rocks glass filled with ice.",
@@ -1441,7 +1441,7 @@
     {
         "name": "White Christmas Margarita Punch",
         "ingredients": [
-            "1.75 oz A\u00f1ejo Tequila",
+            "1.75 oz Anejo Tequila",
             "1.25 oz Cointreau",
             "1.25 oz Fresh lime juice",
             "2 oz Canned coconut milk",
@@ -1476,7 +1476,7 @@
         "name": "Screaming Orgasm Cocktail",
         "ingredients": [
             "1.25 oz Vodka",
-            "1.25 oz Coffee liqueur (eg. Kalh\u00f9a)",
+            "1.25 oz Coffee liqueur (eg. Kalhua)",
             "1.25 oz Amaretto (eg. Disaronno)",
             "1.25 oz Irish cream (eg. Baileys)",
             "1.25 oz half n half",
@@ -1520,7 +1520,7 @@
     {
         "name": "Christmas Spiced Rum Sour Recipe",
         "ingredients": [
-            "2 oz Havana Club A\u00f1ejo Especial",
+            "2 oz Havana Club Anejo Especial",
             "0.75 oz Fresh lemon juice",
             "1 oz Homemade Christmas syrup",
             "1  Egg white"
@@ -1797,10 +1797,10 @@
             "1  cinnamon stick"
         ],
         "instructions": [
-            "Fill\u00a0your mixing glass\u00a0with ice (about 2/3) and let it sit for a minute to cool. Strain melted water before adding the ingredients.",
+            "Fill your mixing glass with ice (about 2/3) and let it sit for a minute to cool. Strain melted water before adding the ingredients.",
             "Add 1 oz of spiced gin, 1 oz of Campari, and 1 oz of sweet vermouth into the mixing glass.",
-            "Use a bar spoon to stir the mixture for 20\u201325 seconds until well-chilled.",
-            "Strain the cocktail into a\u00a0rocks\u00a0glass filled with fresh ice.",
+            "Use a bar spoon to stir the mixture for 20-25 seconds until well-chilled.",
+            "Strain the cocktail into a rocks glass filled with fresh ice.",
             "Add a small cinnamon stick and a dehydrated orange slice for a festive touch."
         ]
     },
@@ -1809,7 +1809,7 @@
         "ingredients": [
             "2 oz Havana Club Especial",
             "1 oz Coffee liqueur",
-            "1 oz Giffard Banane du Br\u00e9sil",
+            "1 oz Giffard Banane du Bresil",
             "2 oz Cream (single cream or half-n-half)",
             "1  Ripe banana"
         ],
@@ -1854,7 +1854,7 @@
         ]
     },
     {
-        "name": "Canch\u00e1nchara - A traditional Cuban cocktail from Trinidad",
+        "name": "Canchanchara - A traditional Cuban cocktail from Trinidad",
         "ingredients": [
             "1.5 oz Aguardiente ((Alternatively use silver Rum))",
             "0.75 oz Honey syrup ((use 2:1 ratio))",
@@ -1908,7 +1908,7 @@
         "instructions": [
             "Add Bourbon, lemon juice, simple syrup, and egg white to your cocktail shaker. Shake it intensively for about 15 - 20 seconds to create a solid egg white foam.",
             "Open the shaker and fill it up with ice. Now shake again for 10 - 15 seconds.",
-            "Open the shaker and double strain it into a chilled old fashioned glass.\u00a0",
+            "Open the shaker and double strain it into a chilled old fashioned glass. ",
             "Float it with port wine.",
             "Enjoy."
         ]
@@ -1960,7 +1960,7 @@
         "name": "Mezcal Fruit Cup",
         "ingredients": [
             "1 oz Mezcal",
-            "0.75 oz Orange cura\u00e7ao liqueur ((Cointreau works fine))",
+            "0.75 oz Orange curacao liqueur ((Cointreau works fine))",
             "0.75 oz Vermouth Rosso",
             "2 dashes of Lavender bitters",
             "1.5 oz Ginger ale",
@@ -1968,7 +1968,7 @@
             "Assorted Fresh Fruits &amp; other garnish ((such as strawberry slices, orange and lemon slices or wedges, and mint leaves))"
         ],
         "instructions": [
-            "Grab your chilled glass and pour all ingredients in.\u00a0Give it a quick stir.",
+            "Grab your chilled glass and pour all ingredients in. Give it a quick stir.",
             "Fill the glass with ice cubes until it&#39;s halfway full.",
             "Add a citrus slice, 1 or two strawberry pieces, and a few leaves of slapped mint.",
             "Fill the glass up with more ice and add the rest of the garnish."
@@ -2028,9 +2028,9 @@
             "Chilled soda water (to top of )"
         ],
         "instructions": [
-            "Store your Collins glass in the freezer or fill it\u00a0up\u00a0with ice to chill it before making the drink.",
+            "Store your Collins glass in the freezer or fill it up with ice to chill it before making the drink.",
             "Fill your shaker with ice, then add all ingredients except soda water.",
-            "Seal the shaker and shake for about 15 to 20 seconds until the shaker feels cold\u00a0to the touch.",
+            "Seal the shaker and shake for about 15 to 20 seconds until the shaker feels cold to the touch.",
             "Fill your Collins glass with fresh ice and strain the drink into the glass.",
             "Top of the drink with chilled soda water and gently stir the drink.",
             "Garnish with your thin rhubarb slice or ribbon."
@@ -2060,8 +2060,8 @@
             "0.5 oz Falernum",
             "1 bsp Maraschino Luxardo",
             "0.75 oz Fresh Lime Juice",
-            "\u2153 oz Simple Syrup",
-            "\u2153 oz Egg White  ((or aquafaba))",
+            "0.33 oz Simple Syrup",
+            "0.33 oz Egg White  ((or aquafaba))",
             "2 drops Saline solution"
         ],
         "instructions": [
@@ -2112,9 +2112,9 @@
         "name": "Call Mexico",
         "ingredients": [
             "2 oz Fino Sherry",
-            "\u2154 oz Mezcal",
-            "\u2153 oz Fresh lime juice",
-            "\u2153 oz Agave syrup",
+            "0.66 oz Mezcal",
+            "0.33 oz Fresh lime juice",
+            "0.33 oz Agave syrup",
             "4 drops Margarita bitters (from Difford&#39;s)"
         ],
         "instructions": [
@@ -2192,7 +2192,7 @@
         "instructions": [
             "Add Tequila, lime juice, grapefruit juice, orange juice, and salt into your cocktail shaker filled with ice.",
             "Shake until your drink is well-chilled.",
-            "Strain into a watered C\u00e1ntaro or Collins glass filled with ice and top with grapefruit soda.",
+            "Strain into a watered Cantaro or Collins glass filled with ice and top with grapefruit soda.",
             "Garnish with slices or wedges of grapefruit and/or lime."
         ]
     },
@@ -2233,7 +2233,7 @@
         "name": "A sensational Espresso Martini Recipe",
         "ingredients": [
             "1.5 oz Vodka",
-            "1 oz Kahl\u00faa",
+            "1 oz Kahlua",
             "0.25 oz Simple syrup",
             "1 shot Espresso"
         ],
@@ -2268,7 +2268,7 @@
         ],
         "instructions": [
             "Add the freshly squeezed lime juice into a collins glass filled with ice.",
-            "Pour in the Rum, add one l\u00f3f the lime wedges, and give it a quick stir.",
+            "Pour in the Rum, add one lof the lime wedges, and give it a quick stir.",
             "Fill the glass up with coke and quickly stir the drink.",
             "Add another lime wedge as garnish and finish it off with a dash of Angostura bitters."
         ]
@@ -2294,10 +2294,10 @@
     {
         "name": "The Necromancer Cocktail",
         "ingredients": [
-            "\u00be oz Absinthe (la Bleue)",
-            "\u00be oz elderflower liqueur",
-            "\u00be oz lemon juice",
-            "\u00be oz Lillet Blanc",
+            "0.75 oz Absinthe (la Bleue)",
+            "0.75 oz elderflower liqueur",
+            "0.75 oz lemon juice",
+            "0.75 oz Lillet Blanc",
             "1 dash Gin",
             "1  lemon twist and elderflower blossom (for garnish)"
         ],
@@ -2343,7 +2343,7 @@
     {
         "name": "Tequila Sunrise Recipe",
         "ingredients": [
-            "1.5 oz Patr\u00f3n A\u00f1ejo Tequila",
+            "1.5 oz Patron Anejo Tequila",
             "1 oz Cointreau",
             "0.75 oz Aged lime juice",
             "2.5 oz Freshly squeezed orange juice",
@@ -2376,7 +2376,7 @@
         ]
     },
     {
-        "name": "Cr\u00e8me\u00a0 Br\u00fbl\u00e9e\u00a0Martini",
+        "name": "Creme  Brelee Martini",
         "ingredients": [
             "2 oz Heavy cream",
             "2 oz Homemade vanilla-infused vodka",
@@ -2533,7 +2533,7 @@
         "instructions": [
             "Fill a mixing glass with ice cubes. Then add Chardonnay, Pinot Noir, cognac, and maraschino liqueur.",
             "Stir the mixture gently for about 20 to 25 seconds to combine and chill the ingredients.",
-            "Fill a\u00a0rocks\u00a0glass with fresh ice.",
+            "Fill a rocks glass with fresh ice.",
             "Strain the stirred cocktail using a Hawthorne strainer into the rocks glass over the fresh ice. Top off with ginger ale and garnish with blood orange slices."
         ]
     },
@@ -2542,8 +2542,8 @@
         "ingredients": [
             "2 oz Rye Whiskey",
             "1 oz Dry Vermouth",
-            "\u00bc oz Maraschino liqueur",
-            "\u00bc oz Amer Picon",
+            "0.25 oz Maraschino liqueur",
+            "0.25 oz Amer Picon",
             "1 pcs Maraschino cherry ((garnish))"
         ],
         "instructions": [
@@ -2637,14 +2637,14 @@
         "ingredients": [
             "2  Passion fruits",
             "2 oz Vanilla flavored Vodka",
-            "0.5 oz Passo\u00e3",
+            "0.5 oz Passoa",
             "0.5 oz Vanilla simple syrup",
             "0.5 oz Lime juice",
             "2 oz Prosecco"
         ],
         "instructions": [
             "Cut the two passion fruits in half and scoop out the flesh of 3 halves into your cocktail shaker. Put one half aside. You will need that later for garnish.",
-            "Add Vodka, Passo\u00e3, syrup, and lime juice to your shaker and shake with plenty of ice.",
+            "Add Vodka, Passoa, syrup, and lime juice to your shaker and shake with plenty of ice.",
             "Double strain into a chilled coupe glass and garnish with half a passion fruit.",
             "Pour Prosecco into a chilled shot glass and serve it beside the cocktail. Instruct your guest to drink alternately from the two glasses."
         ]
@@ -2655,7 +2655,7 @@
     {
         "name": "Caipirinha Cocktail",
         "ingredients": [
-            "2 oz Cacha\u00e7a",
+            "2 oz Cachaca",
             "1.5  Limes, cut in half or quarters with pit removed",
             "1 tbsp Granulated sugar",
             "1 tbsp Freshly squeezed lime juice (optional)",
@@ -2663,7 +2663,7 @@
         ],
         "instructions": [
             "Combine lime pieces and sugar in a cocktail shaker or directly in the glass. Gently muddle and crush the limes to release the juice as well as essential oils.",
-            "Add Cacha\u00e7a and additional lime juice and stir the mix well. If you muddle in a shaker, transfer the drink into a cocktail glass.",
+            "Add Cachaca and additional lime juice and stir the mix well. If you muddle in a shaker, transfer the drink into a cocktail glass.",
             "Fill your glass up with crushed or cracked ice and garnish with a lime wheel (optional)."
         ]
     },
@@ -2676,7 +2676,7 @@
             "1  Maraschino cherry"
         ],
         "instructions": [
-            "Fill a\u00a0rocks\u00a0glass with ice.",
+            "Fill a rocks glass with ice.",
             "Pour 1.5 ounces of Midori melon liqueur and 1 ounce of white rum over the ice.",
             "Stir the mixture gently with a bar spoon to combine.",
             "Top off the glass with 5 ounces of lemon-lime soda. Stir gently again to mix.",
@@ -2687,11 +2687,11 @@
         "name": "Peppermint Bark RumChata White Russian",
         "ingredients": [
             "2 oz Vodka",
-            "1 oz Kahl\u00faa",
+            "1 oz Kahlua",
             "1 oz Peppermint Bark Rumchata"
         ],
         "instructions": [
-            "Pour Vodka and Kahl\u00faa into a mixing glass with ice and stir until well-chilled.",
+            "Pour Vodka and Kahlua into a mixing glass with ice and stir until well-chilled.",
             "Strain over ice into a rocks glass.",
             "Gently layer Peppermint Bark Rumchata on top using a bar spoon.",
             "Garnish with a candy cane. You can use that for stirring, too."
@@ -2747,7 +2747,7 @@
         "name": "Stinger Cocktail Recipe",
         "ingredients": [
             "2 oz Cognac",
-            "0.75 oz White cr\u00e8me de menthe",
+            "0.75 oz White creme de menthe",
             "1  Sprig of mint"
         ],
         "instructions": [
@@ -2760,12 +2760,12 @@
     {
         "name": "50/50 Margarita",
         "ingredients": [
-            "1 oz Mezcal (preferably Mezcal Verde Amar\u00e1s Espad\u00edn)",
+            "1 oz Mezcal (preferably Mezcal Verde Amaras Espadin)",
             "1 oz Manzanilla Sherry",
             "0.75 oz Lime Juice",
             "0.5 oz Cointreau",
             "0.25 oz Light Agave Syrup",
-            "Smoked Chile Salt equal parts Taj\u00edn, Paprika and Salt"
+            "Smoked Chile Salt equal parts Tajin, Paprika and Salt"
         ],
         "instructions": [
             "Chill a rocks glass in the freezer for a few minutes.",
@@ -2882,11 +2882,11 @@
         ],
         "instructions": [
             "Ensure all ingredients are chilled before starting for the best flavor.",
-            "In a mixing pitcher or large\u00a0mixing\u00a0glass filled with ice, pour in the chilled pomegranate juice, cranberry juice, and vodka.",
+            "In a mixing pitcher or large mixing glass filled with ice, pour in the chilled pomegranate juice, cranberry juice, and vodka.",
             "Gently stir the ingredients with a long spoon until well combined and chilled.",
-            "Place ice cubes and a handful of frozen cranberries into each\u00a0rocks\u00a0glass.",
+            "Place ice cubes and a handful of frozen cranberries into each rocks glass.",
             "Evenly distribute the mixture into the glasses over the ice and cranberries.",
-            "Top up each glass with chilled club soda water. Don&#39;t add it before, otherwise, the bubbles will\u00a0be almost gone.",
+            "Top up each glass with chilled club soda water. Don&#39;t add it before, otherwise, the bubbles will be almost gone.",
             "Add a sprig of fresh rosemary to each glass for an aromatic touch."
         ]
     },
@@ -2935,7 +2935,7 @@
         "name": "Black Russian Recipe",
         "ingredients": [
             "2 oz Vodka",
-            "1 oz Kahl\u00faa"
+            "1 oz Kahlua"
         ],
         "instructions": [
             "Add both ingredients to a mixing glass with plenty of ice.",
@@ -2944,7 +2944,7 @@
         ]
     },
     {
-        "name": "Hei\u00dfer Kirmes Apfel Cocktail",
+        "name": "HeiBer Kirmes Apfel Cocktail",
         "ingredients": [
             "5 cl Elixier Gin",
             "20 cl Apple juice",
@@ -2957,7 +2957,7 @@
         ],
         "instructions": [
             "Heat up sugar together with lemon juice and let the mix caramelize. Deglaze with apple juice, cinnamon, star anise, and vanilla and let it simmer briefly before removing it from the heat.",
-            "Add Elixier Gin and let it steep for around minutes 5 before pouring into a glass or cup.\u00a0",
+            "Add Elixier Gin and let it steep for around minutes 5 before pouring into a glass or cup. ",
             "Garnish with cinnamon, star anise, vanilla and the 1/8 apple for serving."
         ]
     },
@@ -3040,8 +3040,8 @@
         "name": "Bijou Cocktail Recipe",
         "ingredients": [
             "1.5 oz Plymouth Gin",
-            "\u00be oz Sweet Vermouth",
-            "\u00be oz Green Chartreuse",
+            "0.75 oz Sweet Vermouth",
+            "0.75 oz Green Chartreuse",
             "1 dash Orange cocktail bitters (optional)"
         ],
         "instructions": [
@@ -3092,8 +3092,8 @@
         "name": "Daiquiri Cocktail - History &#038; Recipe",
         "ingredients": [
             "2 oz White Rum",
-            "\u2154 oz Lime juice",
-            "\u2153 oz Simple syrup",
+            "0.66 oz Lime juice",
+            "0.33 oz Simple syrup",
             "3 dashes Angostura bitters"
         ],
         "instructions": [
@@ -3186,13 +3186,13 @@
     {
         "name": "Oye Mi Canto Cocktail Recipe",
         "ingredients": [
-            "1 oz Tamarind-infused\u00a0Tequila blanco*",
-            "2 oz Ros\u00e9 vermouth",
+            "1 oz Tamarind-infused Tequila blanco*",
+            "2 oz Rose vermouth",
             "0.25 oz Mezcal",
             "1 dash Orange bitters"
         ],
         "instructions": [
-            "Chill your coupe glass\u00a0by storing it\u00a0in your freezer for 10 to 15 minutes.",
+            "Chill your coupe glass by storing it in your freezer for 10 to 15 minutes.",
             "Fill a mixing glass with ice and add all ingredients.",
             "Stir for 20 to 30 seconds.",
             "Strain into chilled coupe glass",
@@ -3202,10 +3202,10 @@
     {
         "name": "Coconut Margarita",
         "ingredients": [
-            "1\u00bd oz Silver Tequila",
-            "1\u00bd oz Cream of Coconut",
-            "\u00be oz fresh lime juice",
-            "\u00bd oz Triple sec",
+            "1.5 oz Silver Tequila",
+            "1.5 oz Cream of Coconut",
+            "0.75 oz fresh lime juice",
+            "0.5 oz Triple sec",
             "1  lime wedge",
             "1  cup shredded coconut"
         ],
@@ -3249,10 +3249,10 @@
     {
         "name": "Mango Margarita on the Rocks",
         "ingredients": [
-            "1\u00bd oz Tequila (Reposado or A\u00f1ejo)",
-            "1\u00bd oz fresh mango juice",
-            "\u00be oz fresh lime juice",
-            "\u00bd oz Triple Sec",
+            "1.5 oz Tequila (Reposado or Anejo)",
+            "1.5 oz fresh mango juice",
+            "0.75 oz fresh lime juice",
+            "0.5 oz Triple Sec",
             "1 tsp agave syrup (optional)"
         ],
         "instructions": [
@@ -3278,12 +3278,12 @@
         ]
     },
     {
-        "name": "Vieux Carr\u00e9 - A Cocktail from the French Quarter in New Orleans",
+        "name": "Vieux Carre - A Cocktail from the French Quarter in New Orleans",
         "ingredients": [
             "0.75 oz Rye Whiskey",
             "0.75 oz Cognac",
             "0.75 oz Sweet Vermouth",
-            "1 bsp D.O.M. B\u00e9n\u00e9dictine",
+            "1 bsp D.O.M. Benedictine",
             "2 dashes Peychaud&#39;s bitters",
             "2 dashes Angostura bitters",
             "1  orange peel (for garnish)"
@@ -3375,9 +3375,9 @@
             "2 oz Orange juice",
             "0.5 oz Orange liqueur (e.g. Cointreau)",
             "1 tbsp Honey",
-            "\u00bc tsp vanilla extract",
-            "\u215b tsp Ground cinnamon",
-            "\u215b tsp Ground ginger",
+            "0.25 tsp vanilla extract",
+            "0.125 tsp Ground cinnamon",
+            "0.125 tsp Ground ginger",
             "1 pinch Cayenne pepper",
             "1 sprig Rosemary",
             "Ginger beer ((optional))"
@@ -3396,7 +3396,7 @@
         "ingredients": [
             "2 oz Gin (London Dry or Plymouth)",
             "0.5 oz Maraschino Liqueur",
-            "0.25 oz Cr\u00e8me de Violette",
+            "0.25 oz Creme de Violette",
             "0.75 oz Lemon juice",
             "1  Maraschino cherry as a cocktail garnish"
         ],
@@ -3519,7 +3519,7 @@
         "ingredients": [
             "2 oz Vodka",
             "1 oz coffee liqueur",
-            "\u00bc oz pumpkin spice syrup",
+            "0.25 oz pumpkin spice syrup",
             "1 oz heavy cream"
         ],
         "instructions": [
@@ -3533,7 +3533,7 @@
     {
         "name": "Paloma Cocktail Recipe",
         "ingredients": [
-            "1.75 oz Patr\u00f3n Silver Tequila",
+            "1.75 oz Patron Silver Tequila",
             "1 oz Grapefruit juice",
             "1.5 oz Grapefruit soda",
             "0.5 oz Lime juice",
@@ -3601,8 +3601,8 @@
         "instructions": [
             "Rinse a rocks glass with the Absinthe, fill it with plenty of ice, and put it aside.",
             "Add the other ingredients to a mixing glass with plenty of ice. Stir until the cocktail is well chilled.",
-            "Then take your Old Fashioned glass and remove the ice and all of the Absinthe.\u00a0",
-            "Strain the cocktail from the mixing glass into your Old Fashioned glass and garnish with a lemon twist.\u00a0"
+            "Then take your Old Fashioned glass and remove the ice and all of the Absinthe. ",
+            "Strain the cocktail from the mixing glass into your Old Fashioned glass and garnish with a lemon twist. "
         ]
     },
     {
@@ -3610,7 +3610,7 @@
         "ingredients": [
             "2 oz Cognac",
             "0.5 oz Fresh lemon juice",
-            "0.25 oz Cura\u00e7ao",
+            "0.25 oz Curacao",
             "0.25 oz Maraschino liqueur",
             "0.5 oz Simple Syrup",
             "2 dashes Angostura bitters",
