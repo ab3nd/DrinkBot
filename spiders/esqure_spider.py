@@ -12,55 +12,7 @@ import json
 visited = set()
 to_visit = set()
 
-def get_links(html):
-    bs = BeautifulSoup(html)
-    links = bs.find_all("a")
-    linkset = set()
-    for link in links:
-        try:
-            if link["href"].startswith("http"):
-                linkset.add(link["href"])
-        except:
-            print("Link with no href. Weird. ")
-    return linkset
-
-def parse_recipe(html):
-    # Time to make the soup!
-    bs = BeautifulSoup(html, "lxml")    
-    
-    recipe = {}
-
-    # Get the drink name... more or less. Fucking Esquire doesn't put the 
-    # title of the drink in the page. 
-    try:
-        title = bs.find("h1", {"class":"content-hed recipe-hed"}).text
-        recipe["name"] = title
-    except AttributeError:
-        print("No title, returning...")
-        return
-
-    # Get the ingredients out of the soup 
-    ingredients = bs.find("div", {"class":"ingredients"})
-    ingred_list = []
-    for ingredient in ingredients.findAll("div", {"class":"ingredient-item"}):
-        try:
-            amount = ingredient.find("span", {"class":"ingredient-amount"}).text
-        except AttributeError:
-            amount = ""
-        
-        ingred = ingredient.find("span", {"class":"ingredient-description"}).text
-        ingred_list.append({"ingred_name": ingred, "ingred_amount": amount})
-    recipe["ingredients"] = ingred_list
-
-    # Get the directions 
-    instructions = bs.find("div", {"class":"directions"})
-    steps = []
-    for step in instructions.findAll("li"):
-        steps.append(step.text)
-    recipe["instructions"] = steps
-
-    with open("esquire_drinks.json", "a") as outfile:
-        outfile.write("{}\n".format(json.dumps(recipe)))
+all_cocktails = []
 
 def parse_recipe_selenium(url):
     
@@ -84,37 +36,29 @@ def parse_recipe_selenium(url):
     # Get all the links in the page
     links = [l.get_attribute('href') for l in driver.find_elements_by_tag_name("a")]
     
-    # Get the title of the page
-    try:
-        title = driver.find_element_by_xpath("//h1[@class='content-hed recipe-hed']").text
-        recipe["name"] = title
-    except NoSuchElementException:
-        print("No title, returning...")
+    # Get the soup and find the script tag
+    bs = BeautifulSoup(driver.page_source, "lxml") 
+    json_tag = bs.find("script", id="json-ld")
+    if json_tag is None:
+        print(f"No JSON for {url}")
         driver.quit()
         return links
+    data = json.loads(json_tag.text)
 
-    # Get the drink ingredients
-    ingredients = driver.find_element_by_xpath("//div[@class='ingredients']")
-    ingred_list = []
-    for ingredient in ingredients.find_elements_by_xpath("//div[@class='ingredient-item']"):
-        try:
-            amount = ingredient.find_element_by_xpath("//span[@class='ingredient-amount']").text
-        except NoSuchElementException:
-            amount = ""
-        
-        ingred = ingredient.find_element_by_xpath("//span[@class='ingredient-description']").text
-        ingred_list.append({"ingred_name": ingred, "ingred_amount": amount})
-    recipe["ingredients"] = ingred_list
+    if type(data) is list:
+        data = data[0]
 
-    # Get the directions 
-    instructions = ingredient.find_element_by_xpath("//div[@class='directions']")
-    steps = []
-    for step in instructions.find_elements_by_tag_name("li"):
-        steps.append(step.text)
-    recipe["instructions"] = steps
-
-    with open("esquire_drinks.json", "a") as outfile:
-        outfile.write("{}\n".format(json.dumps(recipe)))
+    cocktail = {}
+    if 'recipeInstructions' in data.keys():
+        cocktail["instructions"] = []
+        for instr in data["recipeInstructions"]:
+            cocktail["instructions"].append(instr['text'])     
+    if 'recipeIngredient' in data.keys():
+        cocktail['ingredients'] = data['recipeIngredient']
+    if 'name' in data.keys():
+        cocktail['name'] = data['name']
+    
+    all_cocktails.append(cocktail)
 
     driver.quit()
     return links
@@ -134,7 +78,7 @@ if __name__ == '__main__':
             print("Ignoring non-web link {}".format(current_url))
             continue
 
-        # Get the HTML for the current page
+        # Visit the page with selenium
         print("Visiting {}".format(current_url))
         new_links = set(parse_recipe_selenium(current_url))
         visited.add(current_url)
@@ -143,6 +87,8 @@ if __name__ == '__main__':
         # and add them to the future list if we haven't seen them yet
         if new_links is not None:
             for url in new_links:
+                if url is None:
+                    continue
                 #Strip #searchoverlay and #sidebar links
                 url = url.split("#")[0]
                 if not re.match(base_matcher, url):        
@@ -151,6 +97,10 @@ if __name__ == '__main__':
                     to_visit.add(url)
                 
         print("Now have {} to visit.".format(len(to_visit)))
-        
+
+        # Save progress
+        with open("esquire.json", 'w') as outfile:
+            json.dump(all_cocktails, outfile, indent=4)   
+
         # Rate limit 
         time.sleep(random.random())
