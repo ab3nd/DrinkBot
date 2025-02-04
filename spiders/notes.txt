@@ -15,43 +15,31 @@ Also want a concordance of similar flavors (Strega is like a sweet chartreuse)
 and a hierarchy of abstraction (Laphroaig is a Islay is a scotch). This is 
 called an ontology. 
 
-Esquire
+https://cocktailvirgin.blogspot.com/
+Entries are titled with the name of the cocktail, then ingredients, then 
+instructions, then a picture
 
-    https://www.esquire.com/food-drink/drinks/recipes/a3801/tom-collins-drink-recipe/
+Next page link is of the form https://cocktailvirgin.blogspot.com/search?updated-max=2025-01-27T08:00:00-05:00&max-results=9
+but you can set the "max-results" to at least 90, but putting it to 900 doesn't
+pull down the entire blog. 
 
-    They all seem to be the same up to "recipes", so a straightforward parser can pull them out
+<div class='post-body entry-content'> contains the recipe, but the formatting is 
+just <br> tags until you get to the image. The last line before the image is the
+instructions. I'll probably have to do the parse in a pretty loose way and then 
+go through and find the stuff with nonsense ingredients. 
 
-    
-cocktaillove.com
-    Selenium parser, pretty straightforward
 
-mrboston.com
-    Ended up doing a selenium based parser
+https://kindredcocktails.com/
+Each page has links to "recent additions", and the links are all of the form
+https://kindredcocktails.com/cocktail/ followed by some name, so they can be
+filtered pretty easily. 
 
-liquor.com
-    Requests-based parser, was able to get about 560 cocktails
+The real attack vector here is the ingredients pages. https://kindredcocktails.com/info/ingredients
+has an alphabetical list of ingredients pages. Hit all the ingredient pages, 
+which have URLs like https://kindredcocktails.com/ingredient/allspice. Then 
+find the cocktails on those, especially the link to "Explore more (Ingredient 
+name) cocktails.". That page has more cocktails on it, and is paginated, so it's 
+https://kindredcocktails.com/cocktail?scope=0&ingredient%5B0%5D=Gin and then 
+https://kindredcocktails.com/cocktail?scope=0&ingredient%5B0%5D=Gin&page=5 to 
+get subsequent pages. 
 
-Guardian has a drinks section
-    The Good Mixer has drinks starting from https://www.theguardian.com/food/series/the-good-mixer
-    and going on for several pages. 
-
-    The drink links are in 'a' tags with the class "u-faux-block-link-overlay__ js-headline-text",
-    because designing code to be read by humans is apparently for chumps. 
-
-    The "next page" link has rel="next" and data-link-name="Pagination view next". 
-
-    The actual drink pages are a big "fuck you" to the corpse of the semantic web, 
-    though. The content is in 
-    <div class="article-body-commercial-selector article-body-viewer-selector  dcr-ucgxn1">
-    the last parameter of which is an opaque string that varies from page to page. 
-
-    The drink name is in 'h2' tags, and then there's a 'p' with the serving size, 
-    and another p after that has the ingredients. Fortunately, they're all in 
-    'strong' tags, so they can be parsed out of the annotations. Unfortunately, 
-    the madlads over at the Guardian didn't put each ingredient in its OWN strong tag,
-    but they could probably be split on amounts by looking for numbers.  
-
-    The paragraph after that has the instructions, as its text. That, or there's an empty 
-    paragraph, because the Guardian is a trash fire. 
-
-Reddit drinking subreddits
