@@ -66,8 +66,11 @@ def parse_ingredient_base_page(url):
     soup = get_soup(url)
     # Get the link to the full ingredient page
     more_link = soup.find('div', class_="more-link")
-    more_url = 'https://kindredcocktails.com' + more_link.find('a')['href']
-    parse_ingredient_page(more_url)
+    if not more_link is None:
+        link = more_link.find('a')
+        if not link is None:
+            more_url = 'https://kindredcocktails.com' + link['href']
+            parse_ingredient_page(more_url)
 
 # Given a cocktail page url, parse it to produce a cocktail json representation, 
 # and add all the ingredients to the ingredients set. Also add all the cocktails
@@ -91,8 +94,13 @@ def parse_cocktail_page(url):
         cocktail['instructions'] = instr.text.split('\n')
     
     # Get the cocktail's name
-    name = soup.find('span', property="schema:name", content=True, class_="hidden")['content']
-    cocktail['name'] = name
+    name = soup.find('span', property="schema:name", content=True, class_="hidden")
+    if not name is None:
+        cocktail['name'] = name['content']
+    else:
+        # This is weird, return None and go on to the next page
+        return None
+
     
     # Get all the cocktail links, and add them to the todo list
     links = soup.find_all('a')
@@ -117,7 +125,8 @@ while len(cktls_to_do) > 0 or len(ingrd_to_do) > 0:
         current_cocktail = cktls_to_do.pop()
         cktls_done.add(current_cocktail)
         cktl = parse_cocktail_page(current_cocktail)
-        all_cocktails.append(cktl)
+        if not cktl is None:
+            all_cocktails.append(cktl)
 
         with open('kindred.json', 'w') as outfile:
             json.dump(all_cocktails, outfile, indent=4)
