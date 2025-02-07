@@ -369,7 +369,7 @@
                 "ingred_amount": "1",
                 "ingred_unit": "Pint(s)",
                 "ingred_name": "Old Mr. Boston Rum"
-            },,
+            },
             {
                 "ingred_amount": "1",
                 "ingred_unit": "Quart(s)",
@@ -379,7 +379,7 @@
                 "ingred_amount": "1",
                 "ingred_unit": "Pint(s)",
                 "ingred_name": "Strong Tea"
-            },
+            }
         ]
     },
     {
