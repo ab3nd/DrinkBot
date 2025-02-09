@@ -14,11 +14,31 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce lemon juice"
             },
-            "Dash or two Tabasco sauce",
-            "Dash or two Worcestershire sauce",
-            "Pinch of celery salt",
-            "Pinch of pepper",
-            "Dab of horseradish"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "or two Tabasco sauce",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "or two Worcestershire sauce",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of celery salt",
+                "ingred_unit": "pinch"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of pepper",
+                "ingred_unit": "pinch"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of horseradish",
+                "ingred_unit": "dab"
+            }
         ],
         "instructions": [
             "Chill a cocktail shaker.",
@@ -268,7 +288,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce citrus vodka"
             },
-            "Dash of lime juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lime juice",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces chilled lemonade"
@@ -378,7 +402,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon powdered sugar"
             },
-            "Drop of Tabasco sauce or dash of cayenne pepper"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Tabasco sauce or dash of cayenne pepper",
+                "ingred_unit": "drop"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with sherry, egg, powdered sugar, and Tabasco sauce or cayenne pepper.",
@@ -474,8 +502,16 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce vodka"
             },
-            "Splash of pineapple juice",
-            "Splash of cranberry juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of pineapple juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cranberry juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour vodka into a highball glass with ice.",
@@ -549,9 +585,21 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes Worcestershire sauce"
             },
-            "Sprinkle of salt",
-            "Sprinkle of pepper",
-            "Sprinkle of celery salt",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of salt",
+                "ingred_unit": "sprinkle"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of pepper",
+                "ingred_unit": "sprinkle"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of celery salt",
+                "ingred_unit": "sprinkle"
+            },
             "Tomato juice"
         ],
         "instructions": [
@@ -649,8 +697,16 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces tomato juice"
             },
-            "Dash of Tabasco sauce",
-            "Dash of Worcestershire sauce",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Tabasco sauce",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Worcestershire sauce",
+                "ingred_unit": "dash"
+            },
             "Salt and pepper to taste"
         ],
         "instructions": [
@@ -740,7 +796,11 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces guava juice"
             },
-            "Splash of grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "splash"
+            },
             "Build in a collins glass with ice."
         ],
         "instructions": []
@@ -2155,7 +2215,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "egg white"
             },
-            "Dash of Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -2281,7 +2345,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon maraschino liqueur"
             },
-            "Dash of orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -2429,7 +2497,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce clam juice"
             },
-            "Dash of Tabasco sauce"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Tabasco sauce",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Build vodka, juices, and Tabasco sauce into an old- fashioned glass with ice.",
@@ -2489,7 +2561,11 @@
             },
             "Juice of 1 lime",
             "Juice of 1 orange",
-            "Dash of absinthe"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of absinthe",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -2775,7 +2851,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "sugar cube"
             },
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon water"
@@ -2821,7 +2901,11 @@
                 "ingred_name": "ounces gin"
             },
             "Juice of 1/4 orange",
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail shaker with ice.",
@@ -2957,7 +3041,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "to 3 lime wedges"
             },
-            "Dash of sugar",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of sugar",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces Brazilian rum"
@@ -3126,7 +3214,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce anisette"
             },
-            "Dash of Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -3142,8 +3234,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces cognac"
             },
-            "splash of vodka",
-            "splash of anisette",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of vodka",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of anisette",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 0.3333333333333333,
                 "ingred_name": "ounce Cointreau"
@@ -3361,7 +3461,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "teaspoon curacao"
             },
-            "Dash of orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -3604,7 +3708,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "tablespoon triple sec"
             },
-            "Dash of Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -4021,7 +4129,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "teaspoons grenadine"
             },
-            "Splash of club soda"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of club soda",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -4603,7 +4715,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce orange curacao"
             },
-            "Dash of Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -4647,8 +4763,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces bourbon"
             },
-            "Splash of club soda",
-            "Splash of ginger ale"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of club soda",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of ginger ale",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Build in a highball glass.",
@@ -4670,7 +4794,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon sugar"
             },
-            "Pinch of cayenne pepper"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cayenne pepper",
+                "ingred_unit": "pinch"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -5030,7 +5158,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces orange juice"
             },
-            "Splash of fresh lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of fresh lemon juice",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce chilled champagne"
@@ -5124,7 +5256,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon banana liqueur"
             },
-            "Dash of orange bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces chilled brut champagne"
@@ -5176,7 +5312,11 @@
                 "ingred_name": "pear"
             },
             "Chilled champagne",
-            "Dash of pear brandy"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of pear brandy",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Puree pear in blender.",
@@ -5279,7 +5419,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce sweet vermouth"
             },
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces chilled brut champagne"
@@ -5309,7 +5453,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon sugar"
             },
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces chilled brut champagne"
@@ -5489,7 +5637,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce Grand Marnier"
             },
-            "Dash of orange bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            },
             "Chilled brut champagne"
         ],
         "instructions": [
@@ -5682,8 +5834,16 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce lemon juice"
             },
-            "Splash of peach schnapps",
-            "Splash of chilled champagne"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of peach schnapps",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of chilled champagne",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour vodka, peach puree, lemon juice, peach schnapps, and champagne into champagne flute.",
@@ -5701,7 +5861,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces scotch"
             },
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             "Chilled champagne"
         ],
         "instructions": [
@@ -5868,8 +6032,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces brandy"
             },
-            "Dash of curacao",
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of curacao",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             "Chilled brut champagne",
             "Sugar"
         ],
@@ -6080,12 +6252,20 @@
     {
         "name": "Barbotage Of Champagne",
         "ingredients": [
-            "Dash of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon sugar"
             },
-            "Dash of lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lemon juice",
+                "ingred_unit": "dash"
+            },
             "Chilled champagne",
             "Orange peel"
         ],
@@ -6295,7 +6475,11 @@
     {
         "name": "Champagne Comfort",
         "ingredients": [
-            "Splash of Southern Comfort",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Southern Comfort",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes Angostura bitters"
@@ -6312,7 +6496,11 @@
     {
         "name": "Champagne Island",
         "ingredients": [
-            "Splash of orange curacao",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange curacao",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes Angostura bitters"
@@ -6336,7 +6524,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce melon liqueur"
             },
-            "Dash of Rose's lime juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Rose's lime juice",
+                "ingred_unit": "dash"
+            },
             "Chilled champagne"
         ],
         "instructions": [
@@ -6350,7 +6542,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce Mandarine Napoleon"
             },
-            "Splash of orange juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange juice",
+                "ingred_unit": "splash"
+            },
             "Chilled champagne"
         ],
         "instructions": [
@@ -6418,7 +6614,11 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces champagne"
             },
-            "Splash of creme de cassis"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of creme de cassis",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour champagne into champagne flute.",
@@ -6484,9 +6684,21 @@
     {
         "name": "Ritz Fizz",
         "ingredients": [
-            "Dash of amaretto",
-            "Dash of blue curacao",
-            "Dash of lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of amaretto",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of blue curacao",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lemon juice",
+                "ingred_unit": "dash"
+            },
             "Champagne",
             "juice in a champagne flute."
         ],
@@ -6639,7 +6851,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce blackberry puree"
             },
-            "Dash of vanilla syrup",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of vanilla syrup",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces apple juice"
@@ -6936,7 +7152,11 @@
     {
         "name": "A Good Night Kiss",
         "ingredients": [
-            "Drop of Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "drop"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "sugar cube"
@@ -6945,7 +7165,11 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces champagne"
             },
-            "Splash of Campari"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Campari",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Put one drop of bitters on a sugar cube.",
@@ -6983,7 +7207,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce brandy"
             },
-            "Dash of triple sec",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of triple sec",
+                "ingred_unit": "dash"
+            },
             "Juice of 1 lemon",
             "Chilled champagne"
         ],
@@ -7030,8 +7258,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces cherry liqueur"
             },
-            "Splash of sour mix",
-            "Dash of grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of sour mix",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces champagne"
@@ -7093,7 +7329,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces vodka"
             },
-            "Dash dry vermouth"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "dry vermouth",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7213,7 +7453,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon Pernod"
             },
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7229,7 +7473,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces gin"
             },
-            "Dash dry vermouth",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "dry vermouth",
+                "ingred_unit": "dash"
+            },
             "Scotch"
         ],
         "instructions": [
@@ -7255,7 +7503,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce sweet vermouth"
             },
-            "Dash Cointreau"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Cointreau",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7478,7 +7730,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon white creme de menthe"
             },
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7494,7 +7750,11 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces vodka or gin (Bartender's choice)"
             },
-            "Splash red sweet vermouth"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "red sweet vermouth",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7584,8 +7844,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces vodka"
             },
-            "Dash banana liqueur",
-            "Dash black sambuca"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "banana liqueur",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "black sambuca",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7602,7 +7870,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces vodka"
             },
-            "Dash strawberry liqueur"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "strawberry liqueur",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7627,7 +7899,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce Pernod"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7760,7 +8036,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon lime juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7776,7 +8056,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces gin"
             },
-            "Dash white creme de menthe"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "white creme de menthe",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -7844,7 +8128,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce dry vermouth"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -8162,7 +8450,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon grenadine"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -8174,8 +8466,16 @@
     {
         "name": "Lava Lamp Martini",
         "ingredients": [
-            "Splash raspberry liqueur",
-            "Splash honey",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "raspberry liqueur",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "honey",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces vodka"
@@ -8310,8 +8610,16 @@
                 "ingred_amount": 3.5,
                 "ingred_name": "ounces cognac"
             },
-            "Splash lime juice",
-            "Splash Grand Marnier",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lime juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Grand Marnier",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 7.0,
                 "ingred_name": "paper-thin slices black truffle"
@@ -8359,7 +8667,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce dry vermouth"
             },
-            "Dash sugar syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -8408,9 +8720,21 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce Cointreau"
             },
-            "Splash lime juice",
-            "Splash pineapple juice",
-            "Splash cranberry juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lime juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 5.0,
                 "ingred_name": "raspberries"
@@ -8490,7 +8814,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce blue curacao"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Half-fill cocktail shaker with ice.",
@@ -8503,7 +8831,11 @@
     {
         "name": "Girlie Martini",
         "ingredients": [
-            "Splash dry vermouth",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "dry vermouth",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces vodka"
@@ -8512,7 +8844,11 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces chilled champagne"
             },
-            "Dash maraschino liqueur"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "maraschino liqueur",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Coat inside of martini glass with dry vermouth.",
@@ -8538,7 +8874,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce orange curacao"
             },
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -8650,7 +8990,11 @@
     {
         "name": "Special Sweet Martini",
         "ingredients": [
-            "Dash of orange bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce gin"
@@ -8777,7 +9121,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces gin"
             },
-            "Splash scotch",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "scotch",
+                "ingred_unit": "splash"
+            },
             "(This drink may also be stirred and served on the",
             "rocks.)"
         ],
@@ -9086,7 +9434,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces gin"
             },
-            "Dash melon liqueur"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "melon liqueur",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -9137,7 +9489,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce olive juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -9153,7 +9509,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces vodka"
             },
-            "Dash rose water"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "rose water",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -9222,7 +9582,11 @@
                 "ingred_amount": 2.25,
                 "ingred_name": "ounces cream of coconut"
             },
-            "Dash sugar syrup",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            },
             "Six drops orange bitters"
         ],
         "instructions": [
@@ -9308,7 +9672,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce triple sec"
             },
-            "Dash sugar syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -9353,7 +9721,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce triple sec"
             },
-            "Splash mango juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "mango juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -10278,7 +10650,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce coffee liqueur"
             },
-            "Splash milk"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "milk",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill old-fashioned glass with ice.",
@@ -10863,7 +11239,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce vodka"
             },
-            "Splash of cream"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cream",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -11008,7 +11388,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce cream"
             },
-            "Dash of brandy"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of brandy",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -11475,8 +11859,16 @@
                 "ingred_name": "ounce creme de cacao"
             },
             "Hot coffee",
-            "Dash Frangelico",
-            "Dash dark creme de cacao"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Frangelico",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "dark creme de cacao",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour Irish cream liqueur and creme de cacao into a coffee mug.",
@@ -11882,7 +12274,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce dark rum"
             },
-            "Dash of orgeat",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orgeat",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces sour mix"
@@ -11891,7 +12287,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce heavy rum"
             },
-            "Squeeze of lime"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lime",
+                "ingred_unit": "squeeze"
+            }
         ],
         "instructions": [
             "Fill a large old-fashioned glass with crushed ice.",
@@ -11970,8 +12370,16 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce sour mix"
             },
-            "Dash cream",
-            "Dash blue curacao",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cream",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "blue curacao",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces crushed ice"
@@ -12176,7 +12584,11 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "dashes apricot brandy"
             },
-            "Dash papaya juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "papaya juice",
+                "ingred_unit": "dash"
+            },
             "Juice of 1/2 lime",
             {
                 "ingred_amount": 0.5,
@@ -12211,7 +12623,11 @@
                 "ingred_amount": 2.5,
                 "ingred_name": "ounces light rum"
             },
-            "Dash of grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Mix lime juice, powdered sugar, and club soda in a collins glass.",
@@ -12243,7 +12659,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon sugar"
             },
-            "Dash curacao"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "curacao",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Mix liquor of choice, coconut milk, lemon juice, sugar, and curacao in a cocktail shaker.",
@@ -12270,7 +12690,11 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces orange juice"
             },
-            "Dash Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces crushed ice"
@@ -12676,7 +13100,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces pineapple juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -12697,7 +13125,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce white creme de menthe"
             },
-            "Dash of lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -12818,7 +13250,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces grapefruit juice"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour rum, juices, and grenadine in a collins glass with ice.",
@@ -12938,7 +13374,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon Jamaican rum"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -13002,7 +13442,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce dry vermouth"
             },
-            "Dash creme de menthe"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "creme de menthe",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -13592,7 +14036,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce sour mix"
             },
-            "Dash Rose's lime juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Rose's lime juice",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces ice"
@@ -13763,13 +14211,25 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce vodka"
             },
-            "Dash Grand Marnier",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Grand Marnier",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "banana"
             },
-            "Dash Angostura bitters",
-            "Dash nutmeg",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "nutmeg",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces cracked ice"
@@ -13912,7 +14372,11 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces lemon-lime soda"
             },
-            "Splash blue curacao",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "blue curacao",
+                "ingred_unit": "splash"
+            },
             "Salt"
         ],
         "instructions": [
@@ -14288,7 +14752,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon sugar"
             },
-            "Dash Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            },
             "Iced club soda"
         ],
         "instructions": [
@@ -14341,7 +14809,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce orange juice"
             },
-            "Dash lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14399,7 +14871,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces pineapple juice"
             },
-            "Splash of grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14462,7 +14938,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon sugar"
             },
-            "Dash Peychaud's bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Peychaud's bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14522,7 +15002,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce sweet vermouth"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14822,7 +15306,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce Rose's lime juice"
             },
-            "Dash of Chambord"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Chambord",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail shaker with ice.",
@@ -14846,7 +15334,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce peach schnapps"
             },
-            "Splash of cranberry juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cranberry juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail shaker with ice.",
@@ -15032,7 +15524,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce Rose's lime juice"
             },
-            "Dash of grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail shaker with ice.",
@@ -15213,7 +15709,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "drops Tabasco sauce"
             },
-            "Dash of horseradish",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of horseradish",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce vodka"
@@ -15686,8 +16186,16 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces Irish cream liqueur"
             },
-            "Splash cream of coconut",
-            "Splash half and half"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cream of coconut",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "half and half",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -15739,7 +16247,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce coffee liqueur"
             },
-            "Dash of cola"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cola",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -15910,7 +16422,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces Irish cream liqueur"
             },
-            "Drop grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "drop"
+            }
         ],
         "instructions": [
             "Pour sambuca into a cocktail glass.",
@@ -15961,7 +16477,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon pineapple syrup"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -15985,8 +16505,16 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "slice Lemon"
             },
-            "Pinch of cinnamon",
-            "Pinch of sugar"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cinnamon",
+                "ingred_unit": "pinch"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of sugar",
+                "ingred_unit": "pinch"
+            }
         ],
         "instructions": [
             "Fill a shot glass with vodka.",
@@ -16197,7 +16725,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce blue curacao"
             },
-            "Dash grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce milk"
@@ -16263,8 +16795,16 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce coconut rum liqueur"
             },
-            "Splash triple sec",
-            "Splash sour mix",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "triple sec",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sour mix",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce lemon-lime soda"
@@ -16297,7 +16837,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces Grand Marnier"
             },
-            "Splash or two of orange juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "or two of orange juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -16468,7 +17012,11 @@
                 "ingred_name": "ounce Clamato juice"
             },
             "Tabasco sauce",
-            "Dash of Worcestershire sauce"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Worcestershire sauce",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill one shot glass with tequila.",
@@ -16573,7 +17121,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce Amarula cream liqueur"
             },
-            "Dash cream"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cream",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour creme de menthe into a cordial glass.",
@@ -16709,7 +17261,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce triple sec"
             },
-            "Splash of orange juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -16912,8 +17468,16 @@
                 "ingred_amount": 0.3333333333333333,
                 "ingred_name": "ounce melon liqueur"
             },
-            "Dash pineapple juice",
-            "Dash cranberry juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -16956,7 +17520,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce coconut flavored rum"
             },
-            "Splash of sour mix"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of sour mix",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -16972,9 +17540,21 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce gin"
             },
-            "Dash grenadine",
-            "Splash sour mix",
-            "Splash draft beer"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sour mix",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "draft beer",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a cocktail mixer with ice.",
@@ -17071,7 +17651,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce anisette"
             },
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17142,7 +17726,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce Kirsch"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17167,7 +17755,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce Benedictine"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17192,7 +17784,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce Lillet Blonde"
             },
-            "Dash lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17492,8 +18088,16 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce dry vermouth"
             },
-            "Dash orange bitters",
-            "Dash grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce lemon juice"
@@ -17517,7 +18121,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce dry vermouth"
             },
-            "Dash orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17879,7 +18487,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce lime juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17932,7 +18544,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "egg white"
             },
-            "Dash creme de cacao"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "creme de cacao",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -17984,7 +18600,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce orange juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18049,7 +18669,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce orange juice"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18114,7 +18738,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce sugar syrup"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18154,7 +18782,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces light rum"
             },
-            "Dash Tabasco sauce",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Tabasco sauce",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon lemon juice"
@@ -18238,7 +18870,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce sweet vermouth"
             },
-            "Dash Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon grenadine"
@@ -18293,7 +18929,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon sugar syrup"
             },
-            "Dash of Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18418,7 +19058,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce dry gin"
             },
-            "Dash of orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18526,7 +19170,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces Irish whiskey"
             },
-            "Dash Worcestershire sauce",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Worcestershire sauce",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces clam juice"
@@ -18835,7 +19483,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce pastis"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18882,7 +19534,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces cream"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -18928,7 +19584,11 @@
                 "ingred_amount": 8.0,
                 "ingred_name": "ounces vermouth"
             },
-            "Dash maraschino liqueur",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "maraschino liqueur",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes orange bitters"
@@ -19029,7 +19689,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce orange juice"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -19094,7 +19758,11 @@
     {
         "name": "Hesitation Cocktail",
         "ingredients": [
-            "Dash of lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lemon juice",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce whiskey"
@@ -19126,7 +19794,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces lemon juice"
             },
-            "Dash of grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon powdered sugar"
@@ -19318,7 +19990,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "teaspoon absinthe"
             },
-            "Dash of Orange bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Orange bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -19635,7 +20311,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "to 3 drops Angostura bitters"
             },
-            "Dash Pernod",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Pernod",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces whiskey"
@@ -19683,7 +20363,11 @@
                 "ingred_amount": 8.0,
                 "ingred_name": "ounces cranberry juice"
             },
-            "Splash champagne"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "champagne",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20009,7 +20693,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces light cream"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20061,10 +20749,22 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "sugar cube"
             },
-            "Dash Angostura bitters",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            },
             "Juice of 1/2 lemon",
-            "Dash cinnamon",
-            "Dash nutmeg"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cinnamon",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "nutmeg",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Simmer all ingredients in a pot on the stove until just boiling.",
@@ -20196,7 +20896,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce melon liqueur"
             },
-            "Dash of grenadine syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of grenadine syrup",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20502,7 +21206,11 @@
                 "ingred_name": "ounces chilled tequila"
             },
             "Juice of 1/2 lime",
-            "Splash water",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "water",
+                "ingred_unit": "splash"
+            },
             "Chilled cola",
             {
                 "ingred_amount": 2.0,
@@ -20842,7 +21550,11 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "teaspoon maraschino liqueur"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20867,7 +21579,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce Irish whiskey"
             },
-            "Dash Angostura bitters"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Angostura bitters",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20899,7 +21615,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "scoop vanilla ice cream"
             },
-            "Dash sugar syrup",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "cups crushed ice"
@@ -21245,7 +21965,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce sweet vermouth"
             },
-            "Dash of lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -21564,9 +22288,21 @@
                 "ingred_amount": 0.25,
                 "ingred_name": "ounce sloe gin"
             },
-            "Splash triple sec",
-            "Splash orange juice",
-            "Splash pineapple juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "triple sec",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour all ingredients over ice into a hurricane glass.",
@@ -21658,8 +22394,16 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce Irish cream liqueur"
             },
-            "Splash creme de cacao",
-            "Splash Grand Marnier",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "creme de cacao",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Grand Marnier",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces chocolate syrup"
@@ -21737,7 +22481,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon powdered sugar"
             },
-            "Dash of cayenne pepper"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of cayenne pepper",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -21862,7 +22610,11 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces pineapple juice"
             },
-            "Splash cranberry juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour schnapps in a highball glass with ice.",
@@ -22199,7 +22951,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces lemonade"
             },
-            "Squeeze of an orange wedge"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of an orange wedge",
+                "ingred_unit": "squeeze"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -22296,7 +23052,11 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "ounce cream"
             },
-            "Dash of orange flower water",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange flower water",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 0.25,
                 "ingred_name": "to 3/4 ounce sugar syrup"
@@ -22414,7 +23174,11 @@
         "ingredients": [
             "One part cranberry juice",
             "One part grapefruit juice",
-            "Splash of soda"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of soda",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour juices in a collins glass with ice.",
@@ -22441,7 +23205,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce sugar syrup"
             },
-            "Splash of club soda"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of club soda",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Blend vanilla ice cream, juices, sugar syrup, and club soda.",
@@ -22459,7 +23227,11 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces club soda"
             },
-            "Splash sour mix",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sour mix",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes Angostura bitters"
@@ -22499,9 +23271,21 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces ginger ale"
             },
-            "Splash orange juice",
-            "Dash lemon juice",
-            "Dash sugar syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour cranberry juice and ginger ale into a collins glass with ice.",
@@ -22515,7 +23299,11 @@
             "One part cranberry juice",
             "One part pineapple juice",
             "One part orange juice",
-            "Dash sugar syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour juices into a collins glass with ice.",
@@ -22557,8 +23345,16 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes orange bitters"
             },
-            "Dash grenadine",
-            "Dash lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -22574,8 +23370,16 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces sour mix"
             },
-            "Splash lime juice",
-            "Splash orange juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lime juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "orange juice",
+                "ingred_unit": "splash"
+            },
             "Salt"
         ],
         "instructions": [
@@ -22620,8 +23424,16 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces sour mix"
             },
-            "Splash grenadine",
-            "Splash club soda"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "club soda",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -22637,7 +23449,11 @@
         "ingredients": [
             "One part orange juice",
             "One part soda",
-            "Splash sugar syrup"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sugar syrup",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour juice and soda into a highball glass with ice.",
@@ -22648,9 +23464,21 @@
     {
         "name": "Pac Man",
         "ingredients": [
-            "Dash bitters",
-            "Dash grenadine",
-            "Splash lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "bitters",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "splash"
+            },
             "Ginger ale"
         ],
         "instructions": [
@@ -22698,7 +23526,11 @@
     {
         "name": "Pony'S Neck",
         "ingredients": [
-            "Dash lime juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lime juice",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes Angostura bitters"
@@ -22718,8 +23550,16 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces apple juice"
             },
-            "Splash grenadine",
-            "Splash sour mix",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sour mix",
+                "ingred_unit": "splash"
+            },
             "Ginger ale"
         ],
         "instructions": [
@@ -22735,7 +23575,11 @@
         "name": "Roy Rogers",
         "ingredients": [
             "Cola soda",
-            "Splash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill a highball glass with ice.",
@@ -22839,8 +23683,16 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces fresh or frozen strawberries"
             },
-            "Splash sour mix",
-            "Dash grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "sour mix",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces ice"
@@ -22864,8 +23716,16 @@
                 "ingred_amount": 2.5,
                 "ingred_name": "ounces orange juice"
             },
-            "Splash lemon juice",
-            "Splash ginger ale",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "ginger ale",
+                "ingred_unit": "splash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces ice"
@@ -22886,7 +23746,11 @@
                 "ingred_amount": 7.0,
                 "ingred_name": "ounces chilled tomato juice"
             },
-            "Splash lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "splash"
+            },
             "Tonic water"
         ],
         "instructions": [
@@ -22906,7 +23770,11 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces ginger ale"
             },
-            "Splash lime juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lime juice",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Combine grape juice and ginger ale in a collins glass with ice.",
@@ -22921,10 +23789,26 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces tomato juice"
             },
-            "Dash Worcestershire sauce",
-            "Dash Tabasco sauce",
-            "Dash salt",
-            "Dash pepper",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Worcestershire sauce",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "Tabasco sauce",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "salt",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "pepper",
+                "ingred_unit": "dash"
+            },
             "Celery salt to taste"
         ],
         "instructions": [
@@ -23196,7 +24080,11 @@
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces grapefruit juice"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -23336,7 +24224,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "ounces orange juice"
             },
-            "Squeeze lemon",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon",
+                "ingred_unit": "squeeze"
+            },
             "Ginger ale",
             {
                 "ingred_amount": 2.0,
@@ -23356,7 +24248,11 @@
             "One part orange juice",
             "One part mango juice",
             "Ginger ale",
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour equal parts orange and mango juices into a highball glass with crushed ice.",
@@ -23376,7 +24272,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "peach or nectarine"
             },
-            "Dash grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "ounces ice"
@@ -23751,8 +24651,16 @@
             "One part pineapple juice",
             "One part orange juice",
             "One part lemon juice",
-            "Splash club soda",
-            "Splash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "club soda",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -23883,7 +24791,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon lemon juice"
             },
-            "Pinch of salt",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of salt",
+                "ingred_unit": "pinch"
+            },
             {
                 "ingred_amount": 8.0,
                 "ingred_name": "ounces club soda"
@@ -23935,7 +24847,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ounce lemon juice"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill a cocktail shaker with ice.",
@@ -24003,7 +24919,11 @@
     {
         "name": "Shirley Temple",
         "ingredients": [
-            "Dash grenadine",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            },
             "Ginger ale"
         ],
         "instructions": [
@@ -24167,8 +25087,16 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "ounces passion fruit juice"
             },
-            "Dash cranberry juice",
-            "Dash lemon juice",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            },
             "Club soda"
         ],
         "instructions": [
@@ -24274,7 +25202,11 @@
                 "ingred_amount": 1.5,
                 "ingred_name": "ounces apple juice"
             },
-            "Dash lemon juice"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Pour juices into a highball glass with ice.",
@@ -24316,7 +25248,11 @@
         "ingredients": [
             "Lime juice",
             "Cajun spices",
-            "Dash of Worcestershire sauce",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of Worcestershire sauce",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 6.0,
                 "ingred_name": "ounces tomato juice"
@@ -24365,7 +25301,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce passion fruit syrup"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Build orange juice, sour mix, passion fruit syrup, and grenadine into a highball glass with ice.",
@@ -24407,7 +25347,11 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "ounce peach syrup"
             },
-            "Dash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Build ingredients in a highball glass with ice.",
@@ -24425,8 +25369,16 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "teaspoons grenadine"
             },
-            "Dash salt",
-            "Dash cayenne pepper"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "salt",
+                "ingred_unit": "dash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cayenne pepper",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -24541,8 +25493,16 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "scoops vanilla ice cream"
             },
-            "Splash of orange juice",
-            "Splash of club soda"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of orange juice",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "of club soda",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Blend juices, vanilla ice cream, and club soda in a blender until smooth.",
@@ -24627,9 +25587,21 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "cup ice"
             },
-            "Splash cola",
-            "Splash lemon-lime soda",
-            "Splash grenadine"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cola",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "lemon-lime soda",
+                "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grenadine",
+                "ingred_unit": "splash"
+            }
         ],
         "instructions": [
             "Pour lemonade, lime juice, raspberry sorbet, vanilla ice cream, soda, grenadine, and ice into a blender.",
@@ -24651,7 +25623,11 @@
                 "ingred_amount": 3.0,
                 "ingred_name": "or 4 dashes Worcestershire sauce"
             },
-            "Dash salt"
+            {
+                "ingred_amount": 1,
+                "ingred_name": "salt",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Mix well.",
@@ -24669,7 +25645,11 @@
                 "ingred_amount": 2.0,
                 "ingred_name": "dashes vinegar"
             },
-            "Dash pepper",
+            {
+                "ingred_amount": 1,
+                "ingred_name": "pepper",
+                "ingred_unit": "dash"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "teaspoon tomato catsup"
