@@ -19,27 +19,27 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "or two Tabasco sauce",
+                "ingred_name": "Tabasco sauce",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "or two Worcestershire sauce",
+                "ingred_name": "Worcestershire sauce",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of celery salt",
+                "ingred_name": "celery salt",
                 "ingred_unit": "pinch"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of pepper",
+                "ingred_name": "pepper",
                 "ingred_unit": "pinch"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of horseradish",
+                "ingred_name": "horseradish",
                 "ingred_unit": "dab"
             }
         ],
@@ -325,7 +325,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lime juice",
+                "ingred_name": "lime juice",
                 "ingred_unit": "dash"
             },
             {
@@ -452,7 +452,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Tabasco sauce or dash of cayenne pepper",
+                "ingred_name": "Tabasco sauce or dash of cayenne pepper",
                 "ingred_unit": "drop"
             }
         ],
@@ -559,12 +559,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of pineapple juice",
+                "ingred_name": "pineapple juice",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cranberry juice",
+                "ingred_name": "cranberry juice",
                 "ingred_unit": "splash"
             }
         ],
@@ -652,17 +652,17 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of salt",
+                "ingred_name": "salt",
                 "ingred_unit": "sprinkle"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of pepper",
+                "ingred_name": "pepper",
                 "ingred_unit": "sprinkle"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of celery salt",
+                "ingred_name": "celery salt",
                 "ingred_unit": "sprinkle"
             },
             "Tomato juice"
@@ -736,7 +736,8 @@
             },
             {
                 "ingred_amount": 3.0,
-                "ingred_name": "to 4 drops of orange flower water"
+                "ingred_unit": "drop",
+                "ingred_name": "orange flower water"
             },
             {
                 "ingred_amount": 0.5,
@@ -777,12 +778,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Tabasco sauce",
+                "ingred_name": "Tabasco sauce",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Worcestershire sauce",
+                "ingred_name": "Worcestershire sauce",
                 "ingred_unit": "dash"
             },
             "Salt and pepper to taste"
@@ -886,7 +887,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "splash"
             },
             "Build in a collins glass with ice."
@@ -2484,7 +2485,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -2630,7 +2631,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -2801,7 +2802,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Tabasco sauce",
+                "ingred_name": "Tabasco sauce",
                 "ingred_unit": "dash"
             }
         ],
@@ -2872,7 +2873,7 @@
             "Juice of 1 orange",
             {
                 "ingred_amount": 1,
-                "ingred_name": "of absinthe",
+                "ingred_name": "absinthe",
                 "ingred_unit": "dash"
             }
         ],
@@ -2923,15 +2924,18 @@
         "ingredients": [
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 2 1/2 ounces gin"
+                "ingred_amount": "ounce",
+                "ingred_name": "gin"
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "to 2 teaspoons sugar"
+                "ingred_name": "sugar",
+                "ingred_unit": "teaspoon"
             },
             {
                 "ingred_amount": 0.5,
-                "ingred_name": "to 1 ounce lemon juice"
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
             },
             "Iced club soda"
         ],
@@ -3186,7 +3190,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -3389,11 +3393,11 @@
         "ingredients": [
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 lime wedges"
+                "ingred_name": "lime wedges"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of sugar",
+                "ingred_name": "sugar",
                 "ingred_unit": "dash"
             },
             {
@@ -3458,7 +3462,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -3587,7 +3591,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -3608,12 +3612,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of vodka",
+                "ingred_name": "vodka",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of anisette",
+                "ingred_name": "anisette",
                 "ingred_unit": "splash"
             },
             {
@@ -3862,7 +3866,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -4094,7 +4098,7 @@
             "Juice of 1/4 orange",
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "of powdered sugar",
+                "ingred_name": "powdered sugar",
                 "ingred_unit": "teaspoon"
             },
             "Burgundy"
@@ -4135,7 +4139,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -4603,7 +4607,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of club soda",
+                "ingred_name": "club soda",
                 "ingred_unit": "splash"
             }
         ],
@@ -4859,7 +4863,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -5260,7 +5264,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -5292,7 +5296,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -5313,12 +5317,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of club soda",
+                "ingred_name": "club soda",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of ginger ale",
+                "ingred_name": "ginger ale",
                 "ingred_unit": "splash"
             }
         ],
@@ -5346,7 +5350,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cayenne pepper",
+                "ingred_name": "cayenne pepper",
                 "ingred_unit": "pinch"
             }
         ],
@@ -5537,8 +5541,9 @@
                 "ingred_unit": "ounce"
             },
             {
-                "ingred_amount": 1.0,
-                "ingred_name": "to 2 dashes gin"
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "gin"
             }
         ],
         "instructions": [
@@ -5755,7 +5760,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of fresh lemon juice",
+                "ingred_name": "fresh lemon juice",
                 "ingred_unit": "splash"
             },
             {
@@ -5865,7 +5870,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -5925,7 +5930,7 @@
             "Chilled champagne",
             {
                 "ingred_amount": 1,
-                "ingred_name": "of pear brandy",
+                "ingred_name": "pear brandy",
                 "ingred_unit": "dash"
             }
         ],
@@ -5951,7 +5956,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 dashes orange bitters"
+                "ingred_unit": "dash",
+                "ingred_name": "orange bitters"
             },
             "Chilled champagne"
         ],
@@ -6043,7 +6049,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -6080,7 +6086,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -6286,7 +6292,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             },
             "Chilled brut champagne"
@@ -6507,12 +6513,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of peach schnapps",
+                "ingred_name": "peach schnapps",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of chilled champagne",
+                "ingred_name": "chilled champagne",
                 "ingred_unit": "splash"
             }
         ],
@@ -6535,7 +6541,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             "Chilled champagne"
@@ -6665,7 +6671,8 @@
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "to 2 dashes Angostura bitters"
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
             },
             "Chilled champagne",
             "Peach slice"
@@ -6687,7 +6694,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             "Chilled champagne"
@@ -6720,12 +6727,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of curacao",
+                "ingred_name": "curacao",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             "Chilled brut champagne",
@@ -6962,7 +6969,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -6972,7 +6979,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             },
             "Chilled champagne",
@@ -7206,7 +7213,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Southern Comfort",
+                "ingred_name": "Southern Comfort",
                 "ingred_unit": "splash"
             },
             {
@@ -7228,7 +7235,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange curacao",
+                "ingred_name": "orange curacao",
                 "ingred_unit": "splash"
             },
             {
@@ -7259,7 +7266,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Rose's lime juice",
+                "ingred_name": "Rose's lime juice",
                 "ingred_unit": "dash"
             },
             "Chilled champagne"
@@ -7278,7 +7285,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange juice",
+                "ingred_name": "orange juice",
                 "ingred_unit": "splash"
             },
             "Chilled champagne"
@@ -7358,7 +7365,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of creme de cassis",
+                "ingred_name": "creme de cassis",
                 "ingred_unit": "splash"
             }
         ],
@@ -7433,17 +7440,17 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of amaretto",
+                "ingred_name": "amaretto",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of blue curacao",
+                "ingred_name": "blue curacao",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             },
             "Champagne",
@@ -7617,7 +7624,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of vanilla syrup",
+                "ingred_name": "vanilla syrup",
                 "ingred_unit": "dash"
             },
             {
@@ -7751,7 +7758,7 @@
         "ingredients": [
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             },
             {
@@ -7954,7 +7961,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "drop"
             },
             {
@@ -7968,7 +7975,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Campari",
+                "ingred_name": "Campari",
                 "ingred_unit": "splash"
             }
         ],
@@ -8014,7 +8021,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of triple sec",
+                "ingred_name": "triple sec",
                 "ingred_unit": "dash"
             },
             "Juice of 1 lemon",
@@ -8070,12 +8077,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of sour mix",
+                "ingred_name": "sour mix",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             },
             {
@@ -9994,7 +10001,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -10433,7 +10440,7 @@
             },
             {
                 "ingred_amount": 0.25,
-                "ingred_name": "of a lemon"
+                "ingred_name": "a lemon"
             }
         ],
         "instructions": [
@@ -12067,8 +12074,9 @@
                 "ingred_unit": "ounce"
             },
             {
-                "ingred_amount": 1.0,
-                "ingred_name": "to 2 ounces sweet cream"
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "sweet cream"
             }
         ],
         "instructions": [
@@ -12528,7 +12536,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cream",
+                "ingred_name": "cream",
                 "ingred_unit": "splash"
             }
         ],
@@ -12641,7 +12649,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 dashes vanilla extract"
+                "ingred_unit": "dash",
+                "ingred_name": "vanilla extract"
             }
         ],
         "instructions": [
@@ -12696,7 +12705,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of brandy",
+                "ingred_name": "brandy",
                 "ingred_unit": "dash"
             }
         ],
@@ -12921,7 +12930,7 @@
         "ingredients": [
             {
                 "ingred_amount": 0.5,
-                "ingred_name": "of a lemon"
+                "ingred_name": "a lemon"
             },
             {
                 "ingred_amount": 2.0,
@@ -13393,7 +13402,7 @@
             },
             {
                 "ingred_amount": 3.0,
-                "ingred_name": "of ice",
+                "ingred_name": "ice",
                 "ingred_unit": "ounce"
             }
         ],
@@ -13560,7 +13569,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 dashes blue curacao"
+                "ingred_unit": "dash",
+                "ingred_name": "blue curacao"
             },
             {
                 "ingred_amount": 2.0,
@@ -13693,7 +13703,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orgeat",
+                "ingred_name": "orgeat",
                 "ingred_unit": "dash"
             },
             {
@@ -13708,7 +13718,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lime",
+                "ingred_name": "lime",
                 "ingred_unit": "squeeze"
             }
         ],
@@ -14078,7 +14088,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -14088,7 +14098,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             }
         ],
@@ -14575,7 +14585,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 ounces pineapple juice"
+                "ingred_unit": "ounce",
+                "ingred_name": "pineapple juice"
             },
             "Sugar",
             "Created by Stephanie Caruthers, Trio's, Little Rock,",
@@ -14656,7 +14667,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             }
         ],
@@ -16588,12 +16599,12 @@
         "ingredients": [
             {
                 "ingred_amount": 3.0,
-                "ingred_name": "of Captain Morgan's Parrot Bay rum",
+                "ingred_name": "Captain Morgan's Parrot Bay rum",
                 "ingred_unit": "ounce"
             },
             {
                 "ingred_amount": 3.0,
-                "ingred_name": "of Malibu coconut rum",
+                "ingred_name": "Malibu coconut rum",
                 "ingred_unit": "ounce"
             },
             {
@@ -16643,7 +16654,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "splash"
             }
         ],
@@ -17135,7 +17146,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Chambord",
+                "ingred_name": "Chambord",
                 "ingred_unit": "dash"
             }
         ],
@@ -17166,7 +17177,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cranberry juice",
+                "ingred_name": "cranberry juice",
                 "ingred_unit": "splash"
             }
         ],
@@ -17380,7 +17391,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             }
         ],
@@ -17588,7 +17599,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of horseradish",
+                "ingred_name": "horseradish",
                 "ingred_unit": "dash"
             },
             {
@@ -17851,7 +17862,8 @@
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "to 2 drops blue curacao"
+                "ingred_unit" : "drop",
+                "ingred_name": "blue curacao"
             },
             {
                 "ingred_amount": 2.0,
@@ -18194,7 +18206,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cola",
+                "ingred_name": "cola",
                 "ingred_unit": "dash"
             }
         ],
@@ -18366,7 +18378,7 @@
             },
             {
                 "ingred_amount": 0.5,
-                "ingred_name": "of cream",
+                "ingred_name": "cream",
                 "ingred_unit": "ounce"
             }
         ],
@@ -18484,12 +18496,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cinnamon",
+                "ingred_name": "cinnamon",
                 "ingred_unit": "pinch"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of sugar",
+                "ingred_name": "sugar",
                 "ingred_unit": "pinch"
             }
         ],
@@ -18858,7 +18870,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "or two of orange juice",
+                "ingred_name": "orange juice",
                 "ingred_unit": "splash"
             }
         ],
@@ -19056,7 +19068,7 @@
             "Tabasco sauce",
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Worcestershire sauce",
+                "ingred_name": "Worcestershire sauce",
                 "ingred_unit": "dash"
             }
         ],
@@ -19340,7 +19352,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange juice",
+                "ingred_name": "orange juice",
                 "ingred_unit": "splash"
             }
         ],
@@ -19632,7 +19644,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of sour mix",
+                "ingred_name": "sour mix",
                 "ingred_unit": "splash"
             }
         ],
@@ -21219,7 +21231,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -21366,7 +21378,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange bitters",
+                "ingred_name": "orange bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -22104,7 +22116,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of maraschino liqueur",
+                "ingred_name": "maraschino liqueur",
                 "ingred_unit": "dash"
             }
         ],
@@ -22136,7 +22148,7 @@
             },
             {
                 "ingred_amount": 4.0,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             }
         ],
@@ -22153,7 +22165,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             },
             {
@@ -22194,7 +22206,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             },
             {
@@ -22414,7 +22426,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Orange bitters",
+                "ingred_name": "Orange bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -22476,7 +22488,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             }
         ],
@@ -22766,7 +22778,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 drops Angostura bitters"
+                "ingred_unit": "drop",
+                "ingred_name": "Angostura bitters"
             },
             {
                 "ingred_amount": 1,
@@ -22931,7 +22944,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 teaspoons cream"
+                "ingred_unit": "teaspoon",
+                "ingred_name": "cream"
             },
             {
                 "ingred_amount": 3.0,
@@ -23419,7 +23433,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of grenadine syrup",
+                "ingred_name": "grenadine syrup",
                 "ingred_unit": "dash"
             }
         ],
@@ -23526,7 +23540,7 @@
             },
             {
                 "ingred_amount": 4.0,
-                "ingred_name": "of coconut milk",
+                "ingred_name": "coconut milk",
                 "ingred_unit": "ounce"
             },
             "Note: Keep all ingredients refrigerated in advance of",
@@ -23877,7 +23891,7 @@
         "ingredients": [
             {
                 "ingred_amount": 4.0,
-                "ingred_name": "of Angostura bitters",
+                "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
             {
@@ -23959,8 +23973,9 @@
         "name": "Tequila Furnace",
         "ingredients": [
             {
-                "ingred_amount": 5.0,
-                "ingred_name": "to 10 drops Tabasco sauce"
+                "ingred_amount": 7.0,
+                "ingred_unit": "drop",
+                "ingred_name": "Tabasco sauce"
             },
             {
                 "ingred_amount": 1.5,
@@ -24045,7 +24060,7 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "of grenadine",
+                "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             },
             "Juice of 1/2 lime"
@@ -24082,7 +24097,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 dashes Angostura bitters"
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
             }
         ],
         "instructions": [
@@ -24112,7 +24128,8 @@
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "to 2 dashes green Chartreuse"
+                "ingred_unit": "dash",
+                "ingred_name": "green Chartreuse"
             }
         ],
         "instructions": [
@@ -24612,7 +24629,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of lemon juice",
+                "ingred_name": "lemon juice",
                 "ingred_unit": "dash"
             }
         ],
@@ -25195,7 +25212,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of cayenne pepper",
+                "ingred_name": "cayenne pepper",
                 "ingred_unit": "dash"
             }
         ],
@@ -25443,7 +25460,8 @@
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "to 2 dashes lemon juice"
+                "ingred_unit": "dash",
+                "ingred_name": "lemon juice"
             }
         ],
         "instructions": [
@@ -25471,7 +25489,8 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 drops grenadine"
+                "ingred_unit": "drop",
+                "ingred_name": "grenadine"
             },
             {
                 "ingred_amount": 3.0,
@@ -25725,7 +25744,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of an orange wedge",
+                "ingred_name": "an orange wedge",
                 "ingred_unit": "squeeze"
             }
         ],
@@ -25838,12 +25857,13 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange flower water",
+                "ingred_name": "orange flower water",
                 "ingred_unit": "dash"
             },
             {
                 "ingred_amount": 0.25,
-                "ingred_name": "to 3/4 ounce sugar syrup"
+                "ingred_unit": "ounce",
+                "ingred_name": "sugar syrup"
             },
             {
                 "ingred_amount": 0.5,
@@ -25975,7 +25995,7 @@
             "One part grapefruit juice",
             {
                 "ingred_amount": 1,
-                "ingred_name": "of soda",
+                "ingred_name": "soda",
                 "ingred_unit": "splash"
             }
         ],
@@ -25990,7 +26010,7 @@
         "ingredients": [
             {
                 "ingred_amount": 1.0,
-                "ingred_name": "of vanilla ice cream",
+                "ingred_name": "vanilla ice cream",
                 "ingred_unit": "scoop"
             },
             {
@@ -26010,7 +26030,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of club soda",
+                "ingred_name": "club soda",
                 "ingred_unit": "splash"
             }
         ],
@@ -26737,7 +26757,8 @@
             "Chilled lemon-lime soda",
             {
                 "ingred_amount": 5.0,
-                "ingred_name": "to 6 drops grenadine"
+                "ingred_unit": "drop",
+                "ingred_name": "grenadine"
             }
         ],
         "instructions": [
@@ -27080,7 +27101,8 @@
             "Club soda",
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 teaspoons powdered sugar"
+                "ingred_unit": "teaspoons",
+                "ingred_name": "teaspoons powdered sugar"
             },
             {
                 "ingred_amount": 1.0,
@@ -27743,7 +27765,7 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of salt",
+                "ingred_name": "salt",
                 "ingred_unit": "pinch"
             },
             {
@@ -27870,7 +27892,8 @@
             "Orange juice",
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "to 3 dashes Angostura bitters"
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
             }
         ],
         "instructions": [
@@ -28247,7 +28270,7 @@
             "Cajun spices",
             {
                 "ingred_amount": 1,
-                "ingred_name": "of Worcestershire sauce",
+                "ingred_name": "Worcestershire sauce",
                 "ingred_unit": "dash"
             },
             {
@@ -28517,12 +28540,12 @@
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of orange juice",
+                "ingred_name": "orange juice",
                 "ingred_unit": "splash"
             },
             {
                 "ingred_amount": 1,
-                "ingred_name": "of club soda",
+                "ingred_name": "club soda",
                 "ingred_unit": "splash"
             }
         ],
