@@ -72,7 +72,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "Italian vermouth"
             },
-            "2 dashes Angostura bitters"
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
+            }
         ],
         "name": "Manhattan"
     },
@@ -108,7 +112,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "Italian vermouth"
             },
-            "1 dash Angostura bitters"
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
+            }
         ],
         "name": "Brain-Duster"
     },
@@ -300,7 +308,6 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "London dry gin"
             },
-            "1 cocktail glass",
             "Olives or lemon twist"
         ],
         "name": "Classic Martini Like a Pro"
@@ -321,7 +328,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "Italian vermouth"
             },
-            "2 dashes Angostura bitters"
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
+            }
         ],
         "name": "Rob Roy"
     },
@@ -349,8 +360,16 @@
                 "ingred_name": "rye whisky*"
             },
             "1 sugar cube",
-            "2 dashes Peychaud's bitters",
-            "1 dash Angostura bitters",
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Peychaud's bitters"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
+            },
             "absinthe**",
             "lemon peel"
         ],
@@ -374,7 +393,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "Cointreau"
             },
-            "1 L club soda",
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "liter",
+                "ingred_name": "club soda"
+            },
             "8 strawberries",
             "1 orange rind",
             "1 orange, sliced with rind",
@@ -517,7 +540,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "rye or bourbon"
             },
-            "2 dashes Angostura bitters",
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Angostura bitters"
+            },
             "1 sugar cube",
             "club soda"
         ],
@@ -528,8 +555,16 @@
             "Stir honey with warm water in a cocktail shaker until the honey is thoroughly dissolved."
         ],
         "ingredients": [
-            "1/2 tbsp. honey",
-            "1/2 tbsp. water",
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "tablespoon",
+                "ingred_name": "honey"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "tablespoon",
+                "ingred_name": "water"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "ounce",
@@ -621,7 +656,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "vodka"
             },
-            "2-3 oz. cranberry juice cocktail",
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "cranberry juice cocktail"
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_unit": "ounce",
@@ -679,7 +718,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "splash lemon juice"
             },
-            "4 dashes Tiki bitters",
+            {
+                "ingred_amount": 4.0,
+                "ingred_unit": "dash",
+                "ingred_name": "Tiki bitters"
+            },
             "1 star anise pod (or tea bag)"
         ],
         "name": "Hot Toddy"
@@ -788,9 +831,17 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "cherry shrub"
             },
-            "2 dashes apricot kernel bitters (or Angostura bitters)",
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "dash",
+                "ingred_name": "apricot kernel bitters (or Angostura bitters)"
+            },
             "2 lemon wedges",
-            "1 pinch sea salt",
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "pinch",
+                "ingred_name": "sea salt"
+            },
             "1 lemon twist"
         ],
         "name": "Cobbler-Style Rye Whiskey Cocktail"
@@ -1088,7 +1139,11 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "lime juice"
             },
-            "pinch of salt",
+            {
+                "ingred_amount": 1,
+                "ingred_unit": "pinch",
+                "ingred_name": "salt"
+            },
             "grapefruit soda"
         ],
         "name": "Paloma"

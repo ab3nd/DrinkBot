@@ -25,9 +25,12 @@ esquire_drinks.json
 
 esquire.json
 - Split ingredients into amounts, units, names
+- get rid of &nbsp;
+- Remove "How to Make a/an" from all the names
 
 kindred.json
-- Clean empty instructions elements, newlines, unicode escapes
+- Done
+- This file has a lot of things like "Ginger liqueur, Domaine de Canton" where the thing before the comma is the general class, and the thing after the comma is a more specific type or brand. 
 
 liquor_com_drinks.json
 - Clean newlines, convert ascii fractions into numbers, unicode escapes
