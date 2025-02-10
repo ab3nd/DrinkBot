@@ -1,0 +1,1096 @@
+[
+    {
+        "instructions": [
+            "Shake gin, sugar, and lemon juice well with cracked ice in a chilled cocktail shaker. ",
+            "Strain into a Collins glass half-full of cracked ice. ",
+            "Top off with champagne. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 5.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Brut champagne"
+            }
+        ],
+        "name": "French 75"
+    },
+    {
+        "instructions": [
+            "Fill a tall glass with ice cubes. Add rum.",
+            "Pour in ginger beer and lime juice.",
+            "Stir with a barspoon.",
+            "Garnish with a lime wedge. Enjoy."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "dark rum"
+            },
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "ginger beer"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice (optional)"
+            }
+        ],
+        "name": "Dark and Stormy"
+    },
+    {
+        "instructions": [
+            "Stir the whiskey, vermouth, and bitters well with cracked ice in a mixing glass until chilled.",
+            "Strain into a chilled cocktail glass.",
+            "Garnish with a twist and/or a cocktail cherry."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "rye or bourbon"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Italian vermouth"
+            },
+            "2 dashes Angostura bitters"
+        ],
+        "name": "Manhattan"
+    },
+    {
+        "instructions": [
+            "Place a sugar cube in a chilled champagne flute, lash it with 2 or 3 dashes of bitters, and fill the glass with brut champagne."
+        ],
+        "ingredients": [
+            "brut champagne",
+            "1 sugar cube",
+            "2-3 dashes Angostura bitters",
+            "lemon twist"
+        ],
+        "name": "Champagne Cocktail"
+    },
+    {
+        "instructions": [
+            "Stir ingredients well with cracked ice in a mixing glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "rye whiskey"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "absinthe"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Italian vermouth"
+            },
+            "1 dash Angostura bitters"
+        ],
+        "name": "Brain-Duster"
+    },
+    {
+        "instructions": [
+            "Stir all of the ingredients together in a pitcher.",
+            "Put the pitcher in the refrigerator and let stand overnight."
+        ],
+        "ingredients": [
+            "1 bottle red table wine",
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "cup",
+                "ingred_name": "brandy"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "cup",
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "cup",
+                "ingred_name": "pomegranate juice"
+            },
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "cup",
+                "ingred_name": "sparkling water"
+            },
+            {
+                "ingred_amount": 0.25,
+                "ingred_unit": "cup",
+                "ingred_name": "simple syrup"
+            },
+            "orange slices",
+            "apple slices",
+            "blackberries",
+            "pomegranate seeds"
+        ],
+        "name": "Pitcher of Sangria"
+    },
+    {
+        "instructions": [
+            "Combine the gin, vermouth, and olive juice in a mixing tin with ice. Stir well.",
+            "Strain into a chilled martini glass.",
+            "Garnish with as many olives as you'd like on a toothpick."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "gin"
+            },
+            {
+                "ingred_amount": 0.25,
+                "ingred_unit": "ounce",
+                "ingred_name": "extra dry vermouth"
+            },
+            {
+                "ingred_amount": 0.25,
+                "ingred_unit": "ounce",
+                "ingred_name": "olive juice"
+            },
+            "olives"
+        ],
+        "name": "Dirty Martini"
+    },
+    {
+        "instructions": [
+            "Squeeze lime juice into a copper mug (or a <span class=\"redactor-unlink\">Collins glass</span>) and drop in the spent shell. ",
+            "Add ice cubes, then pour in the vodka and fill with cold ginger beer. ",
+            "Serve with a stirring rod."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "vodka"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice, freshly squeezed"
+            },
+            {
+                "ingred_amount": 6.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "ginger beer"
+            }
+        ],
+        "name": "Moscow Mule"
+    },
+    {
+        "instructions": [
+            "Stir ingredients briskly with ice in a mixing tin until very cold.",
+            "Strain into a chilled cocktail glass. Garnish with a large, thin-cut lemon peel.<br>"
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "vodka"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Lillet blanc"
+            }
+        ],
+        "name": "Vesper"
+    },
+    {
+        "instructions": [
+            "Stir the ingredients well with ice, then strain into a chilled cocktail glass.",
+            "Garnish with a lemon twist (or an olive)."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "vodka"
+            },
+            {
+                "ingred_amount": 0.25,
+                "ingred_unit": "ounce",
+                "ingred_name": "dry vermouth"
+            }
+        ],
+        "name": "Vodka Martini"
+    },
+    {
+        "instructions": [
+            "Squeeze the juice from half a lime into a highball glass filled with ice cubes. Drop the lime half in the glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "gin"
+            },
+            "1/2 fresh lime",
+            {
+                "ingred_amount": 6.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "club soda (top off)"
+            }
+        ],
+        "name": "Gin Rickey"
+    },
+    {
+        "instructions": [
+            "Squeeze a lime into a Collins glass. Add 2 or 3 ice cubes. ",
+            "Pour in the rum.",
+            "Drop in one of the spent lime shells and fill with cold Coca-Cola.",
+            "Stir briefly."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "rum (gold rum is best)"
+            },
+            "1 lime",
+            "Coca-Cola"
+        ],
+        "name": "Cuba Libre"
+    },
+    {
+        "instructions": [
+            "Fill a metal shaker with cracked ice.",
+            "Pour in the dry vermouth, stir briefly, and strain out (this may be discarded). ",
+            "Add 4 ounces of gin. Stir briskly for about 10 seconds.",
+            "Strain into a chilled cocktail glass, and garnish with olives or a lemon twist."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "dry vermouth"
+            },
+            {
+                "ingred_amount": 4.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            "1 cocktail glass",
+            "Olives or lemon twist"
+        ],
+        "name": "Classic Martini Like a Pro"
+    },
+    {
+        "instructions": [
+            "Stir the scotch, vermouth, and bitters well with cracked ice.",
+            "Strain into a chilled cocktail glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "blended scotch whisky"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Italian vermouth"
+            },
+            "2 dashes Angostura bitters"
+        ],
+        "name": "Rob Roy"
+    },
+    {
+        "instructions": [
+            "Knock back your shot, then chase with your beer. Or, add your shot to your beer*, then drink the combo, and drink it fast."
+        ],
+        "ingredients": [
+            "1 shot whiskey",
+            "1 beer"
+        ],
+        "name": "Boilermaker"
+    },
+    {
+        "instructions": [
+            "In an Old-Fashioned glass, muddle a sugar cube with a few drops of water.",
+            "Add several small ice cubes, then rye whiskey, Peychaud's bitters, and Angostura bitters. Stir well.",
+            "Roll a few drops of absinthe around a second, chilled Old-Fashioned glass until its inside is thoroughly coated. Pour off the excess.",
+            "Strain the contents of the first glass into the second. Garnish with a twist of lemon peel."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "rye whisky*"
+            },
+            "1 sugar cube",
+            "2 dashes Peychaud's bitters",
+            "1 dash Angostura bitters",
+            "absinthe**",
+            "lemon peel"
+        ],
+        "name": "Sazerac"
+    },
+    {
+        "instructions": [
+            "Put strawberries into a large punch bowl and crush into small pieces.",
+            "Add ice to punch bowl and pour in champagne, brandy, Cointreau, and club soda. Stir.",
+            "Garnish with orange rinds, sliced orange, sliced pineapple, and plenty of fresh mint."
+        ],
+        "ingredients": [
+            "1 bottle Brut champagne",
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "brandy"
+            },
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Cointreau"
+            },
+            "1 L club soda",
+            "8 strawberries",
+            "1 orange rind",
+            "1 orange, sliced with rind",
+            "1 pineapple, sliced",
+            "fresh mint"
+        ],
+        "name": "How to Make Champagne Punch"
+    },
+    {
+        "instructions": [
+            "Add the gin to a highball glass filled with ice. ",
+            "Squeeze in lime wedges to taste. ",
+            "Then add tonic water and stir to combine.",
+            "Garnish with a lime wedge."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "gin"
+            },
+            "3 lime wedges",
+            {
+                "ingred_amount": 4.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "tonic water"
+            }
+        ],
+        "name": "Gin and Tonic"
+    },
+    {
+        "instructions": [
+            "Fill the tall, narrow-mouthed glass with ice cubes.",
+            "Pour your chosen liquor over the ice.",
+            "Hold the glass at a slight angle and slowly pour the club soda into it. No need to stir. Garnish with citrus (optional)."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "liquor"
+            },
+            {
+                "ingred_amount": 4.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "club soda"
+            },
+            "1 tall, narrow-mouthed glass that holds at least 12 ounces"
+        ],
+        "name": "Highball"
+    },
+    {
+        "instructions": [
+            "Stir rum, lime juice, and honey thoroughly with cracked ice in a chilled cocktail shaker."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "golden rum"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "honey"
+            },
+            {
+                "ingred_amount": 5.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Brut champagne"
+            }
+        ],
+        "name": "Air Mail"
+    },
+    {
+        "instructions": [
+            "Squeeze the lime into your shaker, stir in the sugar, and then add the rum.",
+            "Shake well with cracked ice, then strain into a chilled cocktail glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "white rum"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            }
+        ],
+        "name": "Daiquiri"
+    },
+    {
+        "instructions": [
+            "Shake the whiskey, juice, sugar, and egg whites well with cracked ice.",
+            "Strain into a chilled cocktail glass.",
+            "Garnish with a maraschino cherry and/or lemon wedge."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "whiskey (bourbon or rye)"
+            },
+            {
+                "ingred_amount": 0.6666666666666666,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            "1/2 of an egg white"
+        ],
+        "name": "Whiskey Sour"
+    },
+    {
+        "instructions": [
+            "Place the sugar cube in an Old Fashioned glass.",
+            "Wet it down with Angostura bitters and a short splash of club soda.",
+            "Add a large ice cube. Pour in the whiskey.",
+            "Garnish with an orange twist, and serve with a stirring rod if you're so inclined. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "rye or bourbon"
+            },
+            "2 dashes Angostura bitters",
+            "1 sugar cube",
+            "club soda"
+        ],
+        "name": "Old Fashioned Cocktail"
+    },
+    {
+        "instructions": [
+            "Stir honey with warm water in a cocktail shaker until the honey is thoroughly dissolved."
+        ],
+        "ingredients": [
+            "1/2 tbsp. honey",
+            "1/2 tbsp. water",
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "rum (white)"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            }
+        ],
+        "name": "Honey Bee"
+    },
+    {
+        "instructions": [
+            "Shake ingredients in a cocktail shaker with cracked ice."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            {
+                "ingred_amount": 0.6666666666666666,
+                "ingred_unit": "ounce",
+                "ingred_name": "Rose's lime juice"
+            }
+        ],
+        "name": "Gin Gimlet"
+    },
+    {
+        "instructions": [
+            "Shake lemon juice, simple syrup, and gin with ice.",
+            "Strain into a Collins glass over ice.",
+            "Top with soda water, and garnish with lemon and cocktail cherry. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "simple syrup"
+            },
+            "soda water"
+        ],
+        "name": "Tom Collins"
+    },
+    {
+        "instructions": [
+            "Add the lemon juice to a shaker, stir in the sugar, and then add the rum.",
+            "Shake well with cracked ice, and strain into a chilled cocktail glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "golden rum"
+            },
+            {
+                "ingred_amount": 0.6666666666666666,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            }
+        ],
+        "name": "Rum Sour"
+    },
+    {
+        "instructions": [
+            "Pour vodka, cranberry juice, and lime juice into a Collins glass over ice. Stir."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "vodka"
+            },
+            "2-3 oz. cranberry juice cocktail",
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
+            "club soda"
+        ],
+        "name": "Cape Codder"
+    },
+    {
+        "instructions": [
+            "Shake tequila and orange juice well with cracked ice.",
+            "Strain into a chilled cocktail glass.",
+            "Add grenadine and stir gently, for no longer than is necessary to produce layers of oranges and reds. Garnish with a maraschino cherry (optional)."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "tequila"
+            },
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "freshly squeezed orange juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "grenadine"
+            }
+        ],
+        "name": "Tequila Sunrise"
+    },
+    {
+        "instructions": [
+            "Boil water in a teapot. Steep star anise pod or tea bag inside.",
+            "Add bourbon, honey, lemon, and Tiki bitters to a mug. Stir. ",
+            "Serve in glass mugs with a spoon and the teapot.",
+            "To enjoy, pour tea over cocktail base to taste, and stir. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "bourbon*"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "honey"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "splash lemon juice"
+            },
+            "4 dashes Tiki bitters",
+            "1 star anise pod (or tea bag)"
+        ],
+        "name": "Hot Toddy"
+    },
+    {
+        "instructions": [
+            "Shake gin, maraschino liqueur, and lemon juice well with cracked ice.",
+            "Strain into a chilled cocktail glass. Serve ungarnished."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "gin (London dry is traditional)"
+            },
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "maraschino liqueur"
+            },
+            {
+                "ingred_amount": 0.75,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice*"
+            }
+        ],
+        "name": "Aviation Cocktail"
+    },
+    {
+        "instructions": [
+            "In a smallish Collins glass, muddle lime juice with 1/2 to 1 tsp. superfine sugar.",
+            "Add the mint leaves, mushing them against the side of the glass.",
+            "Fill glass 2/3 with cracked ice and pour in the rum.",
+            "Pitch in the squeezed-out lime shell and top off with club soda or seltzer."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "white rum"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice (squeezed fresh)"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            "3 mint leaves",
+            "club soda or seltzer"
+        ],
+        "name": "Ultimate Mojito"
+    },
+    {
+        "instructions": [
+            "Fill champagne flute 1/3 full of fresh-squeezed orange juice.",
+            "Top up with brut champagne.",
+            "Add the teaspoon of Grand Marnier."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_amount": 4.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "brut champagne"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "Grand Marnier (optional)"
+            }
+        ],
+        "name": "Classic Mimosa"
+    },
+    {
+        "instructions": [
+            "Combine all ingredients into a shaker tin. Vigorously shake for 12 seconds. ",
+            "Fine strain over crushed ice. ",
+            "Garnish with a twist of lemon and a gingersnap cookie."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.75,
+                "ingred_unit": "ounce",
+                "ingred_name": "Bulleit Rye"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "milk liqueur"
+            },
+            {
+                "ingred_amount": 0.25,
+                "ingred_unit": "ounce",
+                "ingred_name": "Sons of Vancouver Amaretto"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "cherry shrub"
+            },
+            "2 dashes apricot kernel bitters (or Angostura bitters)",
+            "2 lemon wedges",
+            "1 pinch sea salt",
+            "1 lemon twist"
+        ],
+        "name": "Cobbler-Style Rye Whiskey Cocktail"
+    },
+    {
+        "instructions": [
+            "Pour the whiskey, coffee, and sugar into a stemmed, heated glass mug.",
+            "Stir, then top off with a thick layer of lightly whipped heavy cream. Don't stir it in.*"
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Irish whiskey"
+            },
+            {
+                "ingred_amount": 5.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "coffee"
+            },
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "sugar"
+            },
+            "heavy cream"
+        ],
+        "name": "How to Make Irish Coffee"
+    },
+    {
+        "instructions": [
+            "Shake well with cracked ice in a chilled cocktail shaker.",
+            "Strain into a small, chilled Collins glass and fizz to an inch from the top",
+            "Use a soda siphon if you've got one, or splash the club soda in rather carelessly, so that it foams."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "sloe gin"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            "club soda"
+        ],
+        "name": "Sloe Gin Fizz"
+    },
+    {
+        "instructions": [
+            "In a mug, dissolve the sugar cubes in a little hot water. Add rum and butter."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "dark rum"
+            },
+            "2 sugar cubes",
+            "1 pat unsalted butter"
+        ],
+        "name": "How to Make Hot Buttered Rum"
+    },
+    {
+        "instructions": [
+            "Shake the ingredients in a shaker with cracked ice."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "vodka"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Cointreau"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "cranberry juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Rose's lime juice"
+            }
+        ],
+        "name": "Cosmopolitan"
+    },
+    {
+        "instructions": [
+            "Combine whisky and aperitif in glass. ",
+            "Add 2 large ice cubes, cracked. ",
+            "Stir.",
+            "Add apricot brandy and more cracked ice, almost to the top. ",
+            "Add sparkling wine and club soda. ",
+            "Stir again. ",
+            "Garnish with expressed and rolled grapefruit peel and half a strawberry. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Suntory Whisky Toki"
+            },
+            {
+                "ingred_amount": 1.75,
+                "ingred_unit": "ounce",
+                "ingred_name": "Tempus Fugit Kina L'A\u00e9ro D'Or Aperitif"
+            },
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "Giffard Apricot brandy"
+            },
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Montmartre sparkling wine"
+            },
+            {
+                "ingred_amount": 1.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Club Soda"
+            },
+            "large ice cubes"
+        ],
+        "name": "Whiskey Spritz"
+    },
+    {
+        "instructions": [
+            "Combine the Scotch and Drambuie in a double Old-Fashioned glass. ",
+            "Add lots of ice.",
+            "Stir. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Scotch whisky*"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "Drambuie"
+            }
+        ],
+        "name": "Rusty Nail"
+    },
+    {
+        "instructions": [
+            "Shake ingredients (except club soda) furiously with cracked ice in a chilled cocktail shaker."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "London dry gin"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "superfine sugar"
+            },
+            "1 egg white",
+            "club soda"
+        ],
+        "name": "Silver Fizz"
+    },
+    {
+        "instructions": [
+            "Place mint leaves in the bottom of a pre-chilled, dry pewter cup. Add sugar and crush slightly with a muddler.",
+            "Pack glass with finely cracked ice, then pour a generous 3 ounces of Kentucky bourbon over the ice."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 3.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "bourbon"
+            },
+            "5-6 mint leaves",
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "sugar"
+            }
+        ],
+        "name": "Mint Julep"
+    },
+    {
+        "instructions": [
+            "Slice the lime into 1/2-inch rounds, cube them, and muddle them in an Old-Fashioned glass with the sugar. ",
+            "Add a couple of ice cubes. ",
+            "Pour in the cacha\u00e7a. ",
+            "Serve with a stirring rod. "
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "cacha\u00e7a"
+            },
+            "1/2 lime",
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "teaspoon",
+                "ingred_name": "sugar"
+            }
+        ],
+        "name": "Caipirinha"
+    },
+    {
+        "instructions": [
+            "Chill a cocktail glass, and then rub its rim with lime juice and dip it in coarse salt.",
+            "Add tequila, Cointreau, lime juice, and ice together in a cocktail shaker. ",
+            "Shake and then strain into the glass over ice."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "silver tequila"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "Cointreau"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
+            "coarse salt"
+        ],
+        "name": "Margarita"
+    },
+    {
+        "instructions": [
+            "Sugar half the rim of a cocktail glass.",
+            "Combine all ingredients with ice in a cocktail shaker. Shake until chilled.",
+            "Strain into the glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "cognac"
+            },
+            {
+                "ingred_amount": 1.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "orange liqueur"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lemon juice"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "simple syrup"
+            },
+            "1 splash lime juice"
+        ],
+        "name": "Sidecar"
+    },
+    {
+        "instructions": [
+            "Combine the tequila, lime juice, and salt in a tall glass."
+        ],
+        "ingredients": [
+            {
+                "ingred_amount": 2.0,
+                "ingred_unit": "ounce",
+                "ingred_name": "tequila reposado"
+            },
+            {
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
+            "pinch of salt",
+            "grapefruit soda"
+        ],
+        "name": "Paloma"
+    }
+]
