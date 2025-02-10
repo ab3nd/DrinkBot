@@ -695,16 +695,14 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "grenadine",
                 "ingred_unit": "dash"
-            },
-            "(This drink can be made frothier by adding 1 1/2",
-            "ounces heavy whipping cream. If adding heavy",
-            "whipping cream, use a goblet as glassware.)"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
             "Add juices, gin, and grenadine.",
             "Shake.",
-            "Strain into a cocktail glass."
+            "Strain into a cocktail glass.",
+            "(This drink can be made frothier by adding 1 1/2 ounces heavy whipping cream. If adding heavy whipping cream, use a goblet as glassware.)"
         ]
     },
     {
@@ -842,7 +840,6 @@
     {
         "name": "Champagne Lemon Granita",
         "ingredients": [
-            "with this tangy one.",
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "lemon sorbet",
@@ -889,10 +886,9 @@
                 "ingred_amount": 1,
                 "ingred_name": "grenadine",
                 "ingred_unit": "splash"
-            },
-            "Build in a collins glass with ice."
+            }
         ],
-        "instructions": []
+        "instructions": ["Build in a collins glass with ice."]
     },
     {
         "name": "Russian Brunch",
@@ -1023,7 +1019,6 @@
     {
         "name": "Brunch Punch",
         "ingredients": [
-            "Bunch Brunch Punch.",
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "chilled tomato juice",
@@ -1192,7 +1187,11 @@
     {
         "name": "Frosty Sour",
         "ingredients": [
-            "12-ounce can frozen lemonade concentrate",
+            {
+                "ingred_amount": 12,
+                "ingred_name":"frozen lemonade concentrate",
+                "ingred_unit": "ounce"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "frozen orange juice concentrate",
@@ -1400,8 +1399,7 @@
                 "ingred_name": "aquavit",
                 "ingred_unit": "ounce"
             },
-            "Bloody Mary mix (store-bought or freshly mixed; see",
-            "below.)"
+            "Bloody Mary mix"
         ],
         "instructions": [
             "Pour aquavit into a double old-fashioned glass with ice.",
@@ -1873,8 +1871,16 @@
                 "ingred_unit": "ounce"
             },
             "Sugar to taste",
-            "Juice of 2 oranges",
-            "Juice of 2 lemons"
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 5.0
+            },
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 3.0
+            }
         ],
         "instructions": [
             "Pour ingredients into a punch bowl.",
@@ -1958,7 +1964,11 @@
     {
         "name": "Champagne Punch",
         "ingredients": [
-            "Juice of 12 lemons",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 18.0
+            },
             "Powdered sugar",
             {
                 "ingred_amount": 8.0,
@@ -2259,10 +2269,9 @@
             },
             {
                 "ingred_amount": 2.0,
-                "ingred_name": "frozen strawberry daiquiri fruit juice con-",
+                "ingred_name": "frozen strawberry daiquiri fruit juice concentrate, thawed",
                 "ingred_unit": "ounce"
             },
-            "centrate, thawed",
             {
                 "ingred_amount": 6.0,
                 "ingred_name": "chilled champagne",
@@ -2296,10 +2305,9 @@
             },
             {
                 "ingred_amount": 4.0,
-                "ingred_name": "sliced frozen strawberries, in syrup, partially",
+                "ingred_name": "sliced frozen strawberries, in syrup, partially thawed",
                 "ingred_unit": "ounce"
             },
-            "thawed",
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "cranberry juice cocktail",
@@ -2411,7 +2419,11 @@
     {
         "name": "Fancy Fix",
         "ingredients": [
-            "Juice of 1/2 lemon or lime",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -2451,8 +2463,7 @@
                 "ingred_name": "Pimms No.1",
                 "ingred_unit": "part"
             },
-            "Slice of vodka-soaked orange; cucumber; lemon;",
-            "apple; a strawberry"
+            "Slice of vodka-soaked orange; cucumber; lemon; apple; a strawberry"
         ],
         "instructions": [
             "Pour lemonade into a highball glass with ice. (Use a pitcher if making more than one drink.)",
@@ -2525,7 +2536,11 @@
     {
         "name": "Blue Fix",
         "ingredients": [
-            "Juice of 1/2 lemon or lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -2869,8 +2884,16 @@
                 "ingred_name": "pineapple juice",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 lime",
-            "Juice of 1 orange",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.5
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "absinthe",
@@ -2923,7 +2946,6 @@
         "name": "Tom Collins",
         "ingredients": [
             {
-                "ingred_amount": 2.0,
                 "ingred_amount": "ounce",
                 "ingred_name": "gin"
             },
@@ -2952,7 +2974,11 @@
     {
         "name": "John Collins",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -2978,7 +3004,11 @@
     {
         "name": "Vodka Collins",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -3064,7 +3094,11 @@
     {
         "name": "Sidecar",
         "ingredients": [
-            "Juice of 1/4 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "triple sec",
@@ -3242,7 +3276,11 @@
                 "ingred_name": "gin",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/4 orange",
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.625
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "orange bitters",
@@ -3437,7 +3475,11 @@
                 "ingred_name": "sweet vermouth",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/4 orange"
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.625
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -3449,7 +3491,11 @@
     {
         "name": "Rum Swizzle",
         "ingredients": [
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -3742,7 +3788,11 @@
                 "ingred_name": "gin",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             "Club soda"
         ],
         "instructions": [
@@ -3828,7 +3878,11 @@
                 "ingred_name": "dry gin",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "grenadine",
@@ -3896,7 +3950,11 @@
                 "ingred_name": "sour mix",
                 "ingred_unit": "ounce"
             },
-            "Several dashes of lime juice"
+            {
+                "ingred_amount": 3,
+                "ingred_name": "lime juice",
+                "ingred_unit": "dash"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -4094,8 +4152,16 @@
     {
         "name": "Bishop",
         "ingredients": [
-            "Juice of 1/4 lemon",
-            "Juice of 1/4 orange",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.625
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -4267,7 +4333,11 @@
                 "ingred_name": "powdered sugar",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             "Club soda"
         ],
         "instructions": [
@@ -4397,7 +4467,11 @@
     {
         "name": "Singapore Sling",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -4469,7 +4543,11 @@
                 "ingred_name": "tequila",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "cola",
@@ -4491,7 +4569,11 @@
                 "ingred_name": "vodka",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             "Ginger beer"
         ],
         "instructions": [
@@ -4537,7 +4619,11 @@
     {
         "name": "New York Sour",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -4562,7 +4648,11 @@
     {
         "name": "New York Cocktail",
         "ingredients": [
-            "Juice of 1 lime or 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -4768,7 +4858,11 @@
                 "ingred_name": "cranberry juice",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 fresh lime"
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -4923,7 +5017,11 @@
                 "ingred_name": "powdered sugar",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "egg white"
@@ -4977,7 +5075,11 @@
                 "ingred_name": "gin",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -5065,7 +5167,11 @@
                 "ingred_name": "rum",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/4 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "absinthe",
@@ -5451,7 +5557,11 @@
                 "ingred_name": "triple sec",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime"
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -6583,7 +6693,11 @@
     {
         "name": "Diamond Fizz",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -6608,7 +6722,11 @@
     {
         "name": "French 75",
         "ingredients": [
-            "Juice of 1 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "powdered sugar",
@@ -6709,8 +6827,16 @@
     {
         "name": "Black Velvet",
         "ingredients": [
-            "One part Guinness (preferably on draft)",
-            "One part champagne"
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "Guinness (preferably on draft)"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "champagne"
+            }
         ],
         "instructions": [
             "Combine equal amounts of Guinness and cham- pagne in a chilled collins glass.",
@@ -8024,7 +8150,11 @@
                 "ingred_name": "triple sec",
                 "ingred_unit": "dash"
             },
-            "Juice of 1 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            },
             "Chilled champagne"
         ],
         "instructions": [
@@ -8676,7 +8806,11 @@
                 "ingred_name": "Grand Marnier",
                 "ingred_unit": "ounce"
             },
-            "Juice from whole lime",
+            {
+                "ingred_amount": 1,
+                "ingred_unit": "ounce",
+                "ingred_name": "lime juice"
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "cranberry juice",
@@ -10151,15 +10285,14 @@
                 "ingred_amount": 1,
                 "ingred_name": "scotch",
                 "ingred_unit": "splash"
-            },
-            "(This drink may also be stirred and served on the",
-            "rocks.)"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
             "Add gin and scotch.",
             "Shake.",
-            "Strain into a chilled martini glass."
+            "Strain into a chilled martini glass.",
+            "(This drink may also be stirred and served on the rocks.)"
         ]
     },
     {
@@ -10662,7 +10795,11 @@
                 "ingred_name": "sugar syrup",
                 "ingred_unit": "dash"
             },
-            "Six drops orange bitters"
+            {
+                "ingred_amount": 6,
+                "ingred_unit": "drop",
+                "ingred_name": "orange bitters"
+            }
         ],
         "instructions": [
             "Muddle vodkas, cream of coconut, sugar syrup, and bitters in cocktail shaker.",
@@ -12728,10 +12865,9 @@
                 "ingred_amount": 0.75,
                 "ingred_name": "anisette",
                 "ingred_unit": "ounce"
-            },
-            "Pour ouzo and anisette into a brandy snifter."
+            }
         ],
-        "instructions": []
+        "instructions": ["Pour ouzo and anisette into a brandy snifter."]
     },
     {
         "name": "B & B",
@@ -14015,7 +14151,11 @@
                 "ingred_name": "honey",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of one lime"
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14057,7 +14197,11 @@
                 "ingred_name": "papaya juice",
                 "ingred_unit": "dash"
             },
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "150-proof rum",
@@ -14075,7 +14219,11 @@
     {
         "name": "Planter'S Punch",
         "ingredients": [
-            "Juice of 2 limes",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.0
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "powdered sugar",
@@ -14206,7 +14354,11 @@
                 "ingred_name": "creme de menthe",
                 "ingred_unit": "ounce"
             },
-            "Juice of one lemon"
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14248,7 +14400,11 @@
     {
         "name": "Yo Ho Ho",
         "ingredients": [
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "light rum",
@@ -14401,7 +14557,11 @@
     {
         "name": "Misty Island",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "sugar",
@@ -14474,7 +14634,11 @@
                 "ingred_name": "coffee liqueur",
                 "ingred_unit": "ounce"
             },
-            "Juice of half lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 4.0,
                 "ingred_name": "pineapple juice",
@@ -14588,9 +14752,7 @@
                 "ingred_unit": "ounce",
                 "ingred_name": "pineapple juice"
             },
-            "Sugar",
-            "Created by Stephanie Caruthers, Trio's, Little Rock,",
-            "Ark."
+            "Sugar"
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -14686,7 +14848,11 @@
                 "ingred_name": "light rum",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -14708,7 +14874,11 @@
     {
         "name": "Rum Rickey",
         "ingredients": [
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "light rum",
@@ -14736,7 +14906,11 @@
                 "ingred_name": "grenadine",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "light rum",
@@ -14825,8 +14999,16 @@
                 "ingred_name": "unsweetened pineapple juice",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 lime",
-            "Juice of 1 small orange",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.5
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -15513,7 +15695,11 @@
                 "ingred_name": "pineapple juice",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "rum",
@@ -15605,7 +15791,11 @@
     {
         "name": "Shanghai Cocktail",
         "ingredients": [
-            "Juice of 1/4 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "anisette",
@@ -16991,7 +17181,11 @@
                 "ingred_name": "orange juice",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 passion fruit",
+            {
+                "ingred_name": "passionfruit juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 0.25,
                 "ingred_name": "crushed ice",
@@ -17668,7 +17862,6 @@
     {
         "name": "Woo Woo",
         "ingredients": [
-            "Well worth the bartender's raised eyebrow.",
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "vodka",
@@ -17862,7 +18055,7 @@
             },
             {
                 "ingred_amount": 1.0,
-                "ingred_unit" : "drop",
+                "ingred_unit": "drop",
                 "ingred_name": "blue curacao"
             },
             {
@@ -18277,7 +18470,6 @@
     {
         "name": "Mind Eraser",
         "ingredients": [
-            "Kudos to this drink for telling it like it is.",
             {
                 "ingred_amount": 0.75,
                 "ingred_name": "coffee liqueur",
@@ -18847,7 +19039,6 @@
     {
         "name": "Hawaiian Volcano",
         "ingredients": [
-            "Make it a double!",
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "vodka",
@@ -20224,8 +20415,16 @@
                 "ingred_name": "grenadine",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime",
-            "Juice of 1/4 lemon",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
             "Club soda"
         ],
         "instructions": [
@@ -20239,7 +20438,6 @@
     {
         "name": "Continental",
         "ingredients": [
-            "While you're up, get me another Continental.",
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "light rum",
@@ -20609,7 +20807,11 @@
                 "ingred_name": "grenadine",
                 "ingred_unit": "teaspoon"
             },
-            "Juice 1/2 lemon"
+            {
+                "ingred_amount": 0.75,
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -20784,7 +20986,11 @@
     {
         "name": "Savannah Cocktail",
         "ingredients": [
-            "Juice of 1 orange",
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.5
+            },
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "dry gin",
@@ -21360,7 +21566,11 @@
     {
         "name": "Gilroy",
         "ingredients": [
-            "Juice of 1/4 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.375
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "dry vermouth",
@@ -21433,7 +21643,6 @@
     {
         "name": "Moon Raker",
         "ingredients": [
-            "Careful not to burn up on re-entry.",
             {
                 "ingred_amount": 0.75,
                 "ingred_name": "brandy",
@@ -21934,7 +22143,11 @@
                 "ingred_name": "blended whiskey",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "sugar",
@@ -22103,7 +22316,6 @@
     {
         "name": "Roscoe Turner Cocktail",
         "ingredients": [
-            "On your mark, get set... Jet!",
             {
                 "ingred_amount": 1.5,
                 "ingred_name": "lemon juice",
@@ -22521,7 +22733,11 @@
                 "ingred_name": "powdered sugar",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             "Club soda"
         ],
         "instructions": [
@@ -23017,8 +23233,16 @@
     {
         "name": "Winter Sparkler",
         "ingredients": [
-            "Juice of 1 lemon",
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            },
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 8.0,
                 "ingred_name": "Southern Comfort",
@@ -23061,7 +23285,11 @@
                 "ingred_amount": 0.6,
                 "ingred_name": "red wine"
             },
-            "Juice of one orange",
+            {
+                "ingred_name": "orange juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.5
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "nutmeg",
@@ -23274,7 +23502,11 @@
                 "ingred_name": "Angostura bitters",
                 "ingred_unit": "dash"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "cinnamon",
@@ -23487,9 +23719,7 @@
                 "ingred_amount": 8.0,
                 "ingred_name": "milk",
                 "ingred_unit": "ounce"
-            },
-            "Note: Keep all ingredients refrigerated in advance of",
-            "making this drink."
+            }
         ],
         "instructions": [
             "Beat the eggs and sugar until thick.",
@@ -23542,9 +23772,7 @@
                 "ingred_amount": 4.0,
                 "ingred_name": "coconut milk",
                 "ingred_unit": "ounce"
-            },
-            "Note: Keep all ingredients refrigerated in advance of",
-            "making this drink."
+            }
         ],
         "instructions": [
             "Beat the eggs and sugar until thick.",
@@ -23559,7 +23787,6 @@
     {
         "name": "Christmas Martini",
         "ingredients": [
-            "it's cold outside, but we've got our love to keep us warm.",
             {
                 "ingred_amount": 3.0,
                 "ingred_name": "gin",
@@ -23777,7 +24004,11 @@
                 "ingred_name": "chilled tequila",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1/2 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "water",
@@ -24008,7 +24239,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "egg beaten"
             },
-            "Juice of 2 limes"
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 2.0
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -24063,7 +24298,11 @@
                 "ingred_name": "grenadine",
                 "ingred_unit": "dash"
             },
-            "Juice of 1/2 lime"
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.5
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
@@ -24313,7 +24552,11 @@
     {
         "name": "Clover Leaf Cocktail",
         "ingredients": [
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "grenadine",
@@ -24412,7 +24655,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "egg white"
             },
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             "Club soda"
         ],
         "instructions": [
@@ -24499,7 +24746,11 @@
                 "ingred_name": "powdered sugar",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.0
+            },
             "Club soda"
         ],
         "instructions": [
@@ -24761,7 +25012,6 @@
     {
         "name": "Fireworks",
         "ingredients": [
-            "Kaboom!",
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "vodka",
@@ -25307,7 +25557,11 @@
     {
         "name": "Pink Rose Fizz",
         "ingredients": [
-            "Juice of 1/2 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.75
+            },
             {
                 "ingred_amount": 1.0,
                 "ingred_name": "powdered sugar",
@@ -25638,7 +25892,6 @@
     {
         "name": "Witch'S Brew",
         "ingredients": [
-            "Esmeralda.",
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "Strega",
@@ -25991,12 +26244,20 @@
     {
         "name": "Beach Blanket Bingo",
         "ingredients": [
-            "One part cranberry juice",
-            "One part grapefruit juice",
             {
                 "ingred_amount": 1,
                 "ingred_name": "soda",
                 "ingred_unit": "splash"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice",
+                "ingred_unit": "ounce"
+            },
+            {
+                "ingred_amount": 1,
+                "ingred_name": "grapefruit juice",
+                "ingred_unit": "ounce"
             }
         ],
         "instructions": [
@@ -26125,9 +26386,21 @@
     {
         "name": "Down East Delight",
         "ingredients": [
-            "One part cranberry juice",
-            "One part pineapple juice",
-            "One part orange juice",
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "cranberry juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "orange juice"
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "sugar syrup",
@@ -26287,8 +26560,16 @@
     {
         "name": "Orangeade",
         "ingredients": [
-            "One part orange juice",
-            "One part soda",
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "soda"
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "sugar syrup",
@@ -26464,10 +26745,26 @@
     {
         "name": "San Francisco",
         "ingredients": [
-            "One part pineapple juice",
-            "One part orange juice",
-            "One part grapefruit juice",
-            "One part sour mix",
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "grapefruit juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "sour mix"
+            },
             {
                 "ingred_amount": 2.0,
                 "ingred_name": "grenadine",
@@ -26778,9 +27075,17 @@
                 "ingred_name": "chilled peach crush",
                 "ingred_unit": "ounce"
             },
-            "Juice from three lime wedges",
+            {
+                "ingred_amount": 0.25,
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce"
+            },
             "Lemonade",
-            "3-5 drops grenadine syrup"
+            {
+                "ingred_amount": 4,
+                "ingred_name": "grenadine",
+                "ingred_unit": "drop"
+            }
         ],
         "instructions": [
             "Pour the peach crush into an old-fashioned glass.",
@@ -26828,7 +27133,11 @@
                 "ingred_amount": 1.0,
                 "ingred_name": "ice cube"
             },
-            "Juice from 1/2 lime"
+            {
+                "ingred_name": "lime juice",
+                "ingred_amount": 0.5,
+                "ingred_unit": "ounce"
+            }
         ],
         "instructions": [
             "Pour strawberry crush in an old-fashioned glass.",
@@ -26994,7 +27303,11 @@
                 "ingred_name": "blackberry syrup",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            },
             "Cold club soda"
         ],
         "instructions": [
@@ -27011,7 +27324,11 @@
                 "ingred_name": "raspberry syrup",
                 "ingred_unit": "ounce"
             },
-            "Juice of 1 lemon",
+            {
+                "ingred_name": "lemon juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 1.5
+            },
             "Cold club soda"
         ],
         "instructions": [
@@ -27086,11 +27403,10 @@
                 "ingred_amount": 0.5,
                 "ingred_name": "grenadine",
                 "ingred_unit": "teaspoon"
-            },
-            "almost filled with ice cubes."
+            }
         ],
         "instructions": [
-            "Pour the juice and grenadine into a tall glass",
+            "Pour the juice and grenadine into a tall glass almost filled with ice cubes.",
             "Stir well.",
             "Garnish with an orange slice."
         ]
@@ -27153,8 +27469,16 @@
     {
         "name": "Big Pants",
         "ingredients": [
-            "One part orange juice",
-            "One part mango juice",
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "mango juice"
+            },
             "Ginger ale",
             {
                 "ingred_amount": 1,
@@ -27402,7 +27726,11 @@
                 "ingred_name": "Tabasco to taste",
                 "ingred_unit": "teaspoon"
             },
-            "Juice of 1/4 lime",
+            {
+                "ingred_name": "lime juice",
+                "ingred_unit": "ounce",
+                "ingred_amount": 0.25
+            },
             {
                 "ingred_amount": 0.5,
                 "ingred_name": "grated horseradish",
@@ -27605,9 +27933,21 @@
     {
         "name": "Cinderella",
         "ingredients": [
-            "One part pineapple juice",
-            "One part orange juice",
-            "One part lemon juice",
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "pineapple juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "orange juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "lemon juice"
+            },
             {
                 "ingred_amount": 1,
                 "ingred_name": "club soda",
@@ -28296,9 +28636,21 @@
     {
         "name": "Sue Ellen'S Nightmare",
         "ingredients": [
-            "One part passion fruit juice",
-            "One part grapefruit juice",
-            "One part guava banana juice"
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "passion fruit juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "grapefruit juice"
+            },
+            {
+                "ingred_unit": "part",
+                "ingred_amount": 1,
+                "ingred_name": "guava banana juice"
+            }
         ],
         "instructions": [
             "Fill cocktail shaker with ice.",
