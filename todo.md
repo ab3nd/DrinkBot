@@ -1,19 +1,18 @@
 # TODO
 
 beth_skwarecki_cocktails.json
-- Split ingredients into amount, unit, ingredient
-- Convert ingredients from ascii fractional amounts to numbers
+- Largely done, there are a lot of ingredients that are "to fill"
+- There are also ingredients that show up in instructions but not in the ingredient list
+    - mint sprigs is a particularly common offender there
+- maybe convert things with e.g. egg in to one piece? 
 
 cocktaillove.json
 - This file is the older version, has unicode escapes
-
-cocktaillove_unesc.json
-- This is the newer version, has no unicode escapes
 - Convert ingredient amounts into numbers
 - Split ingredients into amounts, units, names
 
 cocktail_society.json
-- Done, cleaned version already exists
+- Convert amounts to amounts, not strings
 
 cocktails.txt
 - already processed into beth_skwarecki_cocktails.json
