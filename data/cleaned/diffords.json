@@ -100,7 +100,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orgeat syrup"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -201,7 +201,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Galliano liqueur"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "STIR all ingredients with ice and strain into ice-filled glass (preferably over a chunk of block ice or large cube)."
@@ -225,8 +225,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "1 Absinthe",
-            "1 Aromatic bitters"
+            "1 dash Absinthe",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -259,8 +259,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Aromatic bitters",
-            "2 Orange bitters"
+            "1 dash Aromatic bitters",
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -432,7 +432,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             "<2> drops Saline solution 4:1"
         ],
         "instructions": [
@@ -493,7 +493,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "1 Absinthe",
+            "1 dash Absinthe",
             "1 Boker's bitters"
         ],
         "instructions": [
@@ -724,7 +724,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -924,7 +924,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -952,7 +952,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -1088,7 +1088,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -1311,7 +1311,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -1341,7 +1341,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cynar/carciofo amaro"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -1426,7 +1426,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orgeat syrup"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Wine glass.",
@@ -1736,7 +1736,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Honey syrup (3 honey to 1 water)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 45.0,
                 "ingred_unit": "ml",
@@ -1771,7 +1771,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -1996,7 +1996,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -2176,7 +2176,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -2242,8 +2242,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Creole bitters",
-            "1 Aromatic bitters",
+            "1 dash Creole bitters",
+            "1 dash Aromatic bitters",
             "2 Celery bitters"
         ],
         "instructions": [
@@ -2342,7 +2342,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -2440,7 +2440,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -2548,7 +2548,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cream sherry"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -2857,7 +2857,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Cut a large coin-sized lime zest twist disc thick cut so also has flesh of the fruit (Ti' Punch-style) and MUDDLE on base of glass",
@@ -2916,9 +2916,9 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino syrup"
             },
-            "2 Orange bitters",
-            "1 Creole bitters",
-            "1 Aromatic bitters"
+            "2 dash Orange bitters",
+            "1 dash Creole bitters",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -2946,8 +2946,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Absinthe",
-            "1 Aromatic bitters"
+            "1 dash Absinthe",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -3013,7 +3013,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -3050,7 +3050,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cointreau/Triple sec"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -3088,7 +3088,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -3168,7 +3168,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vermouth alla vaniglia"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             "2 Abbott's bitters"
         ],
         "instructions": [
@@ -3233,7 +3233,7 @@
                 "ingred_unit": "drop",
                 "ingred_name": "Saline solution 4:1"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -3261,7 +3261,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -3393,7 +3393,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pomegranate juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -3621,7 +3621,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -3835,7 +3835,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Green"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -4107,7 +4107,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -4173,7 +4173,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -4312,7 +4312,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 20.0,
                 "ingred_unit": "ml",
@@ -4382,7 +4382,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -4415,7 +4415,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and fine strain into ice-filled glass (preferably over a large cube or chunk of block ice)."
@@ -4439,7 +4439,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Raspberry syrup"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -4511,7 +4511,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Agave syrup"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -4661,8 +4661,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Absinthe",
-            "1 Creole bitters"
+            "1 dash Absinthe",
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -4729,8 +4729,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Plum brandy"
             },
-            "2 Aromatic bitters",
-            "2 Orange bitters"
+            "2 dash Aromatic bitters",
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -4803,7 +4803,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -5063,7 +5063,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and fine strain into julep cup half-filled with crushed ice",
@@ -5470,7 +5470,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "POUR absinthe into chilled glass and swirl to coat (rinse) inside and set aside",
@@ -5960,7 +5960,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple juice"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE first 4 ingredients with ice and strain into ice-filled glass",
@@ -5990,7 +5990,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Mandarin liqueur"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -6522,7 +6522,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "SHAKE first 7 ingredients with ice and strain into ice-filled glass",
@@ -6740,7 +6740,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Palo cortado sherry"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -6947,7 +6947,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -7172,7 +7172,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rouge aromatised wine"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -7402,7 +7402,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Applejack brandy"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "POUR all ingredients (preferably chilled) into chilled glass."
@@ -7467,7 +7467,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -7531,7 +7531,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pisco"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 110.0,
                 "ingred_unit": "ml",
@@ -7663,7 +7663,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Scotch whisky"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -7851,7 +7851,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -7951,7 +7951,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a  glass.",
@@ -8631,7 +8631,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry brandy"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -8654,7 +8654,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 90.0,
                 "ingred_unit": "ml",
@@ -8862,7 +8862,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -9251,7 +9251,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "POUR absinthe into chilled glass and roll to coat the inside",
@@ -9339,7 +9339,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Ramazzotti amaro"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -9394,7 +9394,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -9553,7 +9553,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Walnut liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -9613,7 +9613,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orgeat syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "STIR all ingredients with ice and strain into ice-filled glass (preferably over a chink of block ice)."
@@ -9647,8 +9647,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "2 Aromatic bitters",
-            "2 Orange bitters"
+            "2 dash Aromatic bitters",
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -9918,7 +9918,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fernet liqueur"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -9941,7 +9941,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cr\u00e8me de noyau"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -9979,7 +9979,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -10256,7 +10256,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -10586,7 +10586,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -10624,7 +10624,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -10657,8 +10657,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Creole bitters",
-            "2 Aromatic bitters"
+            "2 dash Creole bitters",
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -10775,7 +10775,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -10874,7 +10874,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pimento dram"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Collins glass.",
@@ -10964,7 +10964,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -10997,7 +10997,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 20.0,
                 "ingred_unit": "ml",
@@ -11062,7 +11062,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -11149,7 +11149,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Peated whisk(e)y"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -11345,8 +11345,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "2 Creole bitters",
-            "1 Aromatic bitters",
+            "2 dash Creole bitters",
+            "1 dash Aromatic bitters",
             "2 Mint leaves"
         ],
         "instructions": [
@@ -11374,7 +11374,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -11411,7 +11411,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Absinthe",
+            "1 dash Absinthe",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -11612,7 +11612,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -11650,7 +11650,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Creole bitters",
+            "1 dash Creole bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -11741,7 +11741,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rouge aromatised wine"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 75.0,
                 "ingred_unit": "ml",
@@ -11858,7 +11858,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Honey syrup (3 honey to 1 water)"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -11980,7 +11980,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -12058,7 +12058,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Manzanilla sherry"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -12142,7 +12142,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "4 Absinthe"
+            "4 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -12175,7 +12175,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "China-China liqueur"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -12238,7 +12238,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -12277,7 +12277,7 @@
                 "ingred_name": "Maraschino liqueur"
             },
             "2 Boker's bitters",
-            "1 Absinthe",
+            "1 dash Absinthe",
             "1 Lemon zest oils"
         ],
         "instructions": [
@@ -12430,7 +12430,7 @@
                 "ingred_name": "Honey syrup (3 honey to 1 water)"
             },
             "4 Hot pepper sauce",
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -12687,7 +12687,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry brandy"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 6.0,
                 "ingred_unit": "drop",
@@ -12788,7 +12788,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -12855,7 +12855,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Double old-fashioned glass.",
@@ -13027,7 +13027,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fino sherry"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -13054,7 +13054,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -13082,7 +13082,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -13144,7 +13144,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "THROW (or stir) all ingredients with ice and strain into chilled glass."
@@ -13168,7 +13168,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "THROW (or stir) all ingredients with ice and strain into chilled glass."
@@ -13192,7 +13192,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "THROW (or stir) all ingredients with ice and strain into chilled glass."
@@ -13256,7 +13256,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "6 Aromatic bitters"
+            "6 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -13278,7 +13278,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -13482,7 +13482,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Peated whisk(e)y"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Double old-fashioned glass.",
@@ -13515,7 +13515,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -13593,7 +13593,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "3 Orange bitters",
+            "3 dash Orange bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -13691,7 +13691,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -13835,7 +13835,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pomegranate molasses"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -14710,7 +14710,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -14824,7 +14824,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -14880,7 +14880,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -15019,7 +15019,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -15354,7 +15354,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and fine strain into glass filled with crushed ice",
@@ -15444,7 +15444,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and strain into glass filled with crushed ice",
@@ -15553,7 +15553,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Green"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -15617,7 +15617,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -15645,7 +15645,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Absinthe",
+            "1 dash Absinthe",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -15740,7 +15740,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -16064,7 +16064,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rouge aromatised wine"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -16185,7 +16185,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Blanc quinquina/kina"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -16244,7 +16244,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -16293,7 +16293,7 @@
     {
         "name": "Galatoire Special",
         "ingredients": [
-            "3 Absinthe",
+            "3 dash Absinthe",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -16304,7 +16304,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "4 Creole bitters",
+            "4 dash Creole bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -16334,7 +16334,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -16363,13 +16363,13 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Yellow"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
                 "ingred_name": "Saline solution 4:1"
             },
-            "1 Absinthe",
+            "1 dash Absinthe",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -16529,8 +16529,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Creole bitters",
-            "1 Aromatic bitters"
+            "2 dash Creole bitters",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -16692,7 +16692,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "White cr\u00e8me de cacao"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -16948,7 +16948,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cognac (brandy)"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -17022,7 +17022,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -17174,7 +17174,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -17472,7 +17472,7 @@
                 "ingred_name": "Sugar syrup (2:1)"
             },
             "3 Tiki bitters",
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -17505,7 +17505,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -17607,7 +17607,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dark cr\u00e8me de cacao"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "STIR all ingredients with ice and strain into chilled glass (no ice in glass)."
@@ -17631,7 +17631,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dark cr\u00e8me de cacao"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             "1 Orange peel"
         ],
         "instructions": [
@@ -17657,7 +17657,7 @@
                 "ingred_name": "Amaro"
             },
             "8 Chocolate bitters",
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -18121,7 +18121,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -18164,7 +18164,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Agave syrup"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -18214,7 +18214,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 50.0,
                 "ingred_unit": "ml",
@@ -18282,7 +18282,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry brandy"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -18513,7 +18513,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pumpkin spice syrup"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "POUR absinthe into chilled glass and rotate glass to coat the inside with absinthe",
@@ -18706,7 +18706,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cr\u00e9ole Shrubb liqueur"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -18734,8 +18734,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Strega liqueur"
             },
-            "2 Orange bitters",
-            "2 Creole bitters"
+            "2 dash Orange bitters",
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -18820,7 +18820,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and strain into glass filled with crushed ice",
@@ -18872,8 +18872,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Absinthe",
-            "1 Aromatic bitters",
+            "1 dash Absinthe",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.5,
                 "ingred_unit": "ml",
@@ -19105,8 +19105,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "2 Aromatic bitters",
-            "1 Orange bitters"
+            "2 dash Aromatic bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -19129,7 +19129,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Meletti amaro"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -19217,7 +19217,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and fine strain into chilled and rimmed glass."
@@ -19246,7 +19246,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Strega liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -19376,8 +19376,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pumpkin spice syrup"
             },
-            "2 Orange bitters",
-            "1 Aromatic bitters"
+            "2 dash Orange bitters",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -19529,7 +19529,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 45.0,
                 "ingred_unit": "ml",
@@ -19563,7 +19563,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -19788,7 +19788,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and strain into a glass filled with crushed ice."
@@ -19812,7 +19812,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -19964,7 +19964,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cynar/carciofo amaro"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "STIR all ingredients with ice and strain into chill glass."
@@ -19993,7 +19993,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -20066,7 +20066,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -20099,7 +20099,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and strain into glass filled with crushed ice",
@@ -20249,7 +20249,7 @@
                 "ingred_name": "Maraschino liqueur"
             },
             "2 Boker's bitters",
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Express oils from lemon zest twist into shaker and discard",
@@ -20274,7 +20274,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -20483,7 +20483,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "4 Absinthe"
+            "4 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -20681,7 +20681,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -20755,7 +20755,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -20893,7 +20893,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -21192,8 +21192,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Coconut water"
             },
-            "2 Aromatic bitters",
-            "1 Orange bitters"
+            "2 dash Aromatic bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -21249,8 +21249,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vanilla sugar syrup"
             },
-            "1 Aromatic bitters",
-            "1 Orange bitters"
+            "1 dash Aromatic bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -21355,7 +21355,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pimento dram"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -21430,8 +21430,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "2 Creole bitters",
-            "1 Orange bitters",
+            "2 dash Creole bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -21458,7 +21458,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -21683,8 +21683,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "1 Orange bitters",
-            "1 Aromatic bitters"
+            "1 dash Orange bitters",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -21846,7 +21846,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -21905,7 +21905,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -21951,7 +21951,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cola"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "POUR all ingredients into glass and then fill with ice."
@@ -22044,7 +22044,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry brandy"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             "1 Xocolatl mole bitters"
         ],
         "instructions": [
@@ -22140,7 +22140,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Egg white (pasteurised)"
             },
-            "3 Creole bitters",
+            "3 dash Creole bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -22230,7 +22230,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Limoncello liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -22710,8 +22710,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "1 Absinthe",
-            "1 Orange bitters",
+            "1 dash Absinthe",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -22934,7 +22934,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vermouth amaro"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -23010,7 +23010,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -23111,7 +23111,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -23298,7 +23298,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -23333,7 +23333,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -23468,8 +23468,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gomme syrup"
             },
-            "2 Creole bitters",
-            "1 Orange bitters"
+            "2 dash Creole bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -23774,7 +23774,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fernet liqueur"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -23843,7 +23843,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 45.0,
                 "ingred_unit": "ml",
@@ -24343,7 +24343,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Blossom vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -24376,7 +24376,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -24789,7 +24789,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -24874,7 +24874,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Anisette liqueur"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -24929,7 +24929,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Anisette liqueur"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -24957,7 +24957,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -24990,8 +24990,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Averna Amaro"
             },
-            "1 Aromatic bitters",
-            "1 Orange bitters",
+            "1 dash Aromatic bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -25029,7 +25029,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry blossom syrup"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -25112,7 +25112,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -25149,7 +25149,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -25207,7 +25207,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amaro Nonino Quintessentia"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -25235,7 +25235,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -25363,7 +25363,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -25500,7 +25500,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "\u00c9lixir V\u00e9g\u00e9tal"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -25599,7 +25599,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 5.0,
                 "ingred_unit": "ml",
@@ -25791,7 +25791,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -25823,7 +25823,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -25951,8 +25951,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "3 Aromatic bitters",
-            "3 Orange bitters"
+            "3 dash Aromatic bitters",
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -26506,7 +26506,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pimento dram"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -26679,7 +26679,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Honey syrup (3 honey to 1 water)"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             "1 Grapefruit peel/zest"
         ],
         "instructions": [
@@ -26709,7 +26709,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amaro Nonino Quintessentia"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -26975,7 +26975,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chilled water (reduce if wet ice)"
             },
-            "2 Creole bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -27040,7 +27040,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -27307,7 +27307,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Walnut liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -27664,7 +27664,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orgeat syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             "1 Xocolatl mole bitters"
         ],
         "instructions": [
@@ -28036,7 +28036,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -28069,7 +28069,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amaro Santoni"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -28274,7 +28274,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -28367,7 +28367,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "White cr\u00e8me de cacao"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -28436,7 +28436,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Coconut water"
             },
-            "12 Aromatic bitters"
+            "12 dash Aromatic bitters"
         ],
         "instructions": [
             "STIR all ingredients with ice and strain into ice-filled glass",
@@ -28495,7 +28495,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -28547,7 +28547,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Red bitter liqueur"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -28577,7 +28577,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -28657,7 +28657,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -28927,7 +28927,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -28964,7 +28964,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Agave syrup"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29001,7 +29001,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29038,7 +29038,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29080,7 +29080,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Egg white (pasteurised)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29119,7 +29119,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29157,7 +29157,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29195,7 +29195,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Egg white (pasteurised)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -29419,7 +29419,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Oloroso sherry"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 1.0,
                 "ingred_unit": "drop",
@@ -29456,7 +29456,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fino sherry"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 1.0,
                 "ingred_unit": "drop",
@@ -29516,7 +29516,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -29730,7 +29730,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 30.0,
                 "ingred_unit": "ml",
@@ -29806,7 +29806,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Falernum liqueur"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -29904,7 +29904,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Yellow"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -29932,7 +29932,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Yellow"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -30117,7 +30117,7 @@
                 "ingred_name": "Maple syrup"
             },
             "1 Tobacco bitters",
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -30321,7 +30321,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             "1/2 Orange (fresh)",
             {
                 "ingred_amount": 60.0,
@@ -30554,7 +30554,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry cider"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Collins glass.",
@@ -30591,8 +30591,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Egg white (pasteurised)"
             },
-            "2 Absinthe",
-            "2 Aromatic bitters"
+            "2 dash Absinthe",
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and strain back into shaker",
@@ -30834,7 +30834,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -31110,7 +31110,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chilled water (omit if using wet ice)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Flute glass.",
@@ -31187,8 +31187,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple juice"
             },
-            "2 Absinthe",
-            "1 Creole bitters"
+            "2 dash Absinthe",
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -31335,7 +31335,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange Cura\u00e7ao"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -31418,7 +31418,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -31640,7 +31640,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -31863,7 +31863,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -31994,7 +31994,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -32105,8 +32105,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Red bitter liqueur"
             },
-            "1 Creole bitters",
-            "1 Orange bitters"
+            "1 dash Creole bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -32310,7 +32310,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Peach liqueur"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -32405,7 +32405,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Falernum liqueur"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -32728,7 +32728,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Groseille syrup"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -32765,7 +32765,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Groseille syrup"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -32879,7 +32879,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple juice"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -33003,7 +33003,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             "3 Mint leaves"
         ],
         "instructions": [
@@ -33183,7 +33183,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "2 Absinthe",
+            "2 dash Absinthe",
             {
                 "ingred_amount": 75.0,
                 "ingred_unit": "ml",
@@ -33264,7 +33264,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vanilla sugar syrup"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -33428,7 +33428,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -33539,8 +33539,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters",
-            "2 Creole bitters",
+            "2 dash Aromatic bitters",
+            "2 dash Creole bitters",
             {
                 "ingred_amount": 45.0,
                 "ingred_unit": "ml",
@@ -33617,7 +33617,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vanilla sugar syrup"
             },
-            "6 Orange bitters"
+            "6 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -33645,9 +33645,9 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "4 Creole bitters",
-            "3 Absinthe",
-            "2 Aromatic bitters",
+            "4 dash Creole bitters",
+            "3 dash Absinthe",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 2.0,
                 "ingred_unit": "drop",
@@ -33873,7 +33873,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "STIR strawberry conserve and cognac in base of shaker until conserve is dissolved",
@@ -34010,7 +34010,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "White cr\u00e8me de cacao"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -34129,7 +34129,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Sling glass.",
@@ -34162,7 +34162,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -34268,8 +34268,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Blackberry liqueur"
             },
-            "1 Aromatic bitters",
-            "1 Orange bitters"
+            "1 dash Aromatic bitters",
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -34334,7 +34334,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -34639,7 +34639,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amber bitter liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -34716,7 +34716,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Gin"
             },
-            "1 Aromatic bitters",
+            "1 dash Aromatic bitters",
             {
                 "ingred_amount": 75.0,
                 "ingred_unit": "ml",
@@ -34986,7 +34986,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Mezcal"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "To make the tequila and tamarind infusion: Infuse 250 gram (9oz) of chopped tamarind flesh in 70cl/75cl blanco tequila for 2 days in a vacuum-sealed bag (or 2 weeks in a Kilner jar)",
@@ -35082,7 +35082,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Highball (max 10oz/300ml) glass.",
@@ -35436,7 +35436,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 80.0,
                 "ingred_unit": "ml",
@@ -35481,7 +35481,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cinnamon syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -35626,7 +35626,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Framboise eau-de-vie"
             },
-            "2 Absinthe",
+            "2 dash Absinthe",
             "2 Burlesque bitters"
         ],
         "instructions": [
@@ -35813,7 +35813,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Vanilla sugar syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "BLEND all ingredients with 6oz scoop of crushed ice",
@@ -35937,7 +35937,7 @@
                 "ingred_name": "Cherry brandy"
             },
             "6 Chocolate bitters",
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -36081,7 +36081,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime cordial"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             "1 Black pepper",
             {
                 "ingred_amount": 50.0,
@@ -36313,7 +36313,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -36369,7 +36369,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Dry vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -36396,7 +36396,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 50.0,
                 "ingred_unit": "ml",
@@ -36456,7 +36456,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 120.0,
                 "ingred_unit": "ml",
@@ -36498,7 +36498,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Tiki mug or collins glass.",
@@ -36699,7 +36699,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -36727,7 +36727,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Highball (max 10oz/300ml) glass.",
@@ -36897,8 +36897,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Absinthe",
-            "1 Aromatic bitters"
+            "2 dash Absinthe",
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "BLEND all ingredients with 8oz scoop of crushed ice."
@@ -36917,7 +36917,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Martini glass.",
@@ -37414,7 +37414,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pimento dram"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -37447,7 +37447,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cr\u00e8me de cassis"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -37543,7 +37543,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "3 Orange bitters"
+            "3 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -37688,7 +37688,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Collins glass.",
@@ -37758,7 +37758,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Coffee liqueur"
             },
-            "2 Orange bitters",
+            "2 dash Orange bitters",
             {
                 "ingred_amount": 2.5,
                 "ingred_unit": "ml",
@@ -38070,7 +38070,7 @@
                 "ingred_name": "Sugar syrup (2:1)"
             },
             "3 Chocolate bitters",
-            "3 Orange bitters",
+            "3 dash Orange bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -38130,7 +38130,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -38225,7 +38225,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chartreuse Yellow"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -38283,7 +38283,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -38446,7 +38446,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fernet liqueur"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 30.0,
                 "ingred_unit": "ml",
@@ -38775,7 +38775,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 60.0,
                 "ingred_unit": "ml",
@@ -38850,7 +38850,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Falernum liqueur"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "POUR overproof rum into frozen glass, swirl to coat inside and discard excess",
@@ -38885,7 +38885,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Egg white (pasteurised)"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -38986,7 +38986,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "4 Aromatic bitters",
+            "4 dash Aromatic bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -39061,7 +39061,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bianco/blanc/blanco vermouth"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -39089,7 +39089,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cognac (brandy)"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -39174,7 +39174,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Calvados apple brandy"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 105.0,
                 "ingred_unit": "ml",
@@ -39280,7 +39280,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -39309,7 +39309,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chilled water"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "1. Combine all ingredients in a frozen tumbler glass and stir to integrate ground coffee",
@@ -39429,7 +39429,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cinnamon syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "SHAKE all ingredients with ice and fine strain into ice-filled glass (preferably over a chunk of block ice)."
@@ -39528,7 +39528,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -39663,7 +39663,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot eau-de-vie"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -39729,7 +39729,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Absinthe"
+            "2 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -39799,7 +39799,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pimento dram"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -39872,7 +39872,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Creole bitters",
+            "1 dash Creole bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -39942,7 +39942,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 2.5,
                 "ingred_unit": "ml",
@@ -40093,7 +40093,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "STIR first 4 ingredients with ice and strain into ice-filled glass",
@@ -40278,7 +40278,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amontillado sherry"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -40311,7 +40311,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cinnamon syrup"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -40343,8 +40343,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Aromatic bitters",
-            "2 Orange bitters"
+            "2 dash Aromatic bitters",
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -40398,7 +40398,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -40508,7 +40508,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -40712,7 +40712,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amaro"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -40866,7 +40866,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -40893,7 +40893,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Banana (yellow) sugar syrup"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -40925,7 +40925,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Collins glass.",
@@ -40953,7 +40953,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -41055,7 +41055,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -41283,7 +41283,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Irish whiskey"
             },
-            "3 Aromatic bitters",
+            "3 dash Aromatic bitters",
             {
                 "ingred_amount": 90.0,
                 "ingred_unit": "ml",
@@ -41357,7 +41357,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Orange juice"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -41478,7 +41478,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple syrup"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -41505,7 +41505,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Orange bitters"
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -41670,7 +41670,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Pineapple juice"
             },
-            "3 Creole bitters"
+            "3 dash Creole bitters"
         ],
         "instructions": [
             "MUDDLE blackberries in base of shaker",
@@ -41716,7 +41716,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Agave syrup"
             },
-            "3 Aromatic bitters"
+            "3 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -41785,7 +41785,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Ginger syrup (1:1)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -41812,8 +41812,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maraschino liqueur"
             },
-            "3 Aromatic bitters",
-            "2 Orange bitters"
+            "3 dash Aromatic bitters",
+            "2 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -41851,7 +41851,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Brown sugar syrup"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             "1 Xocolatl mole bitters"
         ],
         "instructions": [
@@ -41870,7 +41870,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Bourbon whiskey"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 120.0,
                 "ingred_unit": "ml",
@@ -41960,7 +41960,7 @@
                 "ingred_name": "Pommeau du Normandie"
             },
             "2 Peach bitters",
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -42113,7 +42113,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Rosso/sweet vermouth"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 15.0,
                 "ingred_unit": "ml",
@@ -42234,7 +42234,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -42262,7 +42262,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -42290,7 +42290,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Cherry brandy"
             },
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -42417,7 +42417,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Aromatized wine"
             },
-            "1 Creole bitters"
+            "1 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -42500,7 +42500,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Maple syrup"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 10.0,
                 "ingred_unit": "ml",
@@ -42651,7 +42651,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Blood orange juice"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -42742,7 +42742,7 @@
                 "ingred_name": "Kummel liqueur"
             },
             "1 Celery bitters",
-            "1 Absinthe"
+            "1 dash Absinthe"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -42795,7 +42795,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -42886,7 +42886,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Sugar syrup (2:1)"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill an Old-fashioned glass.",
@@ -43094,7 +43094,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lime juice"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Sling glass.",
@@ -43131,7 +43131,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Orange bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 3.0,
                 "ingred_unit": "drop",
@@ -43205,7 +43205,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Chilled water"
             },
-            "2 Aromatic bitters"
+            "2 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Double old-fashioned glass.",
@@ -43286,7 +43286,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Fino sherry"
             },
-            "1 Orange bitters"
+            "1 dash Orange bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -43378,7 +43378,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Absinthe"
             },
-            "4 Aromatic bitters"
+            "4 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -43442,7 +43442,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Honey syrup (3 honey to 1 water)"
             },
-            "2 Aromatic bitters",
+            "2 dash Aromatic bitters",
             {
                 "ingred_amount": 7.5,
                 "ingred_unit": "ml",
@@ -43485,7 +43485,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Lemon juice"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -43651,8 +43651,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "B\u00e9n\u00e9dictine D.O.M."
             },
-            "2 Creole bitters",
-            "1 Absinthe",
+            "2 dash Creole bitters",
+            "1 dash Absinthe",
             {
                 "ingred_amount": 5.0,
                 "ingred_unit": "ml",
@@ -44066,7 +44066,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Amontillado sherry"
             },
-            "1 Aromatic bitters"
+            "1 dash Aromatic bitters"
         ],
         "instructions": [
             "Select and pre-chill a Nick and Nora glass.",
@@ -44157,7 +44157,7 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Apricot liqueur"
             },
-            "2 Creole bitters"
+            "2 dash Creole bitters"
         ],
         "instructions": [
             "Select and pre-chill a Coupe glass.",
@@ -44232,8 +44232,8 @@
                 "ingred_unit": "ml",
                 "ingred_name": "Grenadine syrup"
             },
-            "1 Aromatic bitters",
-            "1 Orange bitters",
+            "1 dash Aromatic bitters",
+            "1 dash Orange bitters",
             {
                 "ingred_amount": 5.0,
                 "ingred_unit": "ml",
