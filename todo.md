@@ -1,11 +1,5 @@
 # TODO
 
-beth_skwarecki_cocktails.json
-- Largely done, there are a lot of ingredients that are "to fill"
-- There are also ingredients that show up in instructions but not in the ingredient list
-    - mint sprigs is a particularly common offender there
-- maybe convert things with e.g. egg in to one piece? 
-
 cocktaillove.json
 - This file is the older version, has unicode escapes
 - Convert ingredient amounts into numbers
@@ -14,37 +8,11 @@ cocktaillove.json
 cocktail_society.json
 - Convert amounts to amounts, not strings
 
-cocktails.txt
-- already processed into beth_skwarecki_cocktails.json
-
-diffords.json
-- Split ingredients into amounts, units, names
-
-esquire_drinks.json
-- Delete file, all the drinks only have one ingredient
-
-esquire.json
-- Split ingredients into amounts, units, names
-- get rid of &nbsp;
-- Remove "How to Make a/an" from all the names
-
-kindred.json
-- Done
-- This file has a lot of things like "Ginger liqueur, Domaine de Canton" where the thing before the comma is the general class, and the thing after the comma is a more specific type or brand. 
-
 liquor_com_drinks.json
 - Clean newlines, convert ascii fractions into numbers, unicode escapes
-
-liquor_com_first_run.json
 - newlines, has some spots where ingredients start with "ounces"
 - some ingredients don't have an amount or unit and are like "Garnish: basil leaf"
 - "ingred_name": "3 ounces club soda, chilled, to top", and similar, need 3 deleted
-
-martha_stewart.json
-- Done, martha_stewart_cleaned.json is properly split
-
-mr_boston.json
-- Done, mr_boston_cleaned.json is properly split
 
 mybartender.json
 - Split ingredients into amounts, units, names
@@ -71,3 +39,39 @@ webtender.json
 
 All
 - Normalize amounts as much as possible
+
+# Done
+
+beth_skwarecki_cocktails.json
+- Largely done, there are a lot of ingredients that are "to fill"
+- There are also ingredients that show up in instructions but not in the ingredient list
+    - mint sprigs is a particularly common offender there
+- maybe convert things with e.g. egg in to one piece? 
+
+diffords.json
+- Done
+- Diffords.com may be minable for general class vs specific brand relationships
+- The content of this file is very generic, to the point of having "bitter red liquer" instead of "Campari"
+
+esquire_drinks.json
+- Delete file, all the drinks only have one ingredient
+
+esquire.json
+- Done
+
+kindred.json
+- Done
+- This file has a lot of things like "Ginger liqueur, Domaine de Canton" where the thing before the comma is the general class, and the thing after the comma is a more specific type or brand. 
+
+liquor_com_first_run.json
+- Lump in with the other file, then delete
+
+martha_stewart.json
+- Done, martha_stewart_cleaned.json is properly split
+
+mr_boston.json
+- Done, mr_boston_cleaned.json is properly split
+
+
+cocktails.txt
+- already processed into beth_skwarecki_cocktails.json
