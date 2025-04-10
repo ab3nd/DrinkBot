@@ -1,8 +1,16 @@
 # TODO
 
+punchdrink.com
+- Figure out their format
+    - https://punchdrink.com/tag/cocktail-package/ has a bunch of links to pages like https://punchdrink.com/articles/all-the-ways-paloma-cocktail-recipe/, those go to pages where there are other links 
+    - https://punchdrink.com/recipes/dove-dispatch/ is a typical link to a recipe page, it has an ingredient section and a sidebar of related recipes. 
+    - Recipe pages have a javascript variable called dataLayer_content that has the recipe in it
+    - Recipe itself is in <div class="save-recipe"> as well
+    - Sub-ingredients show up in Editor's note, which is annoying, but can still be handled. 
+- Write a spider 
+
 cocktaillove.json
-- Convert ingredient amounts into numbers
-- Split ingredients into amounts, units, names
+- handle ingredients that are count of pieces
 
 cocktail_society.json
 - Convert amounts to amounts, not strings
