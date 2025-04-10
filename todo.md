@@ -1,7 +1,6 @@
 # TODO
 
 cocktaillove.json
-- This file is the older version, has unicode escapes
 - Convert ingredient amounts into numbers
 - Split ingredients into amounts, units, names
 
@@ -9,7 +8,7 @@ cocktail_society.json
 - Convert amounts to amounts, not strings
 
 liquor_com_drinks.json
-- Clean newlines, convert ascii fractions into numbers, unicode escapes
+- Clean newlines, convert ascii fractions into numbers
 - newlines, has some spots where ingredients start with "ounces"
 - some ingredients don't have an amount or unit and are like "Garnish: basil leaf"
 - "ingred_name": "3 ounces club soda, chilled, to top", and similar, need 3 deleted
@@ -19,7 +18,6 @@ mybartender.json
     - Will be annoying because ingredients that are in dashes or as a garnish have that parenthetically at the end, but some things are just parenthetical asides, like "(for that deep almond taste)". 
     - Some ingredients don't have numbers or units (e.g. "Sugar Cube")
     - "Dashes" can go anywhere "2-3 dashes" vs "2 angostura (dashes)"
-- Unicode escapes
 - Spacing is uneven ("2 oz" vs "2oz")
 - Fractions vs decimals is uneven _even in the same drink_
 
@@ -28,7 +26,6 @@ themixer_drinks.json
 - Has some 0 amounts, like "0 ice" for stuff that didn't have an amount. 
     - What's a legitimate way to handle this?
 - Drop numbers from instructions, they're already in a list
-- Unicode escapes
 
 webtender.json
 - Split amounts and units
@@ -39,6 +36,7 @@ webtender.json
 
 All
 - Normalize amounts as much as possible
+- rename ingredient components to just "amount", "unit", "name"
 
 # Done
 
@@ -52,6 +50,7 @@ diffords.json
 - Done
 - Diffords.com may be minable for general class vs specific brand relationships
 - The content of this file is very generic, to the point of having "bitter red liquer" instead of "Campari"
+- The spider missed a _lot_ of units, if I ever re-crawl that, I need to test more before sending it. 
 
 esquire_drinks.json
 - Delete file, all the drinks only have one ingredient
@@ -71,7 +70,6 @@ martha_stewart.json
 
 mr_boston.json
 - Done, mr_boston_cleaned.json is properly split
-
 
 cocktails.txt
 - already processed into beth_skwarecki_cocktails.json
