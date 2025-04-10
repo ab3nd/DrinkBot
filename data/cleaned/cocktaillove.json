@@ -6292,7 +6292,11 @@
                 "ingred_name": "cinnamon syrup"
             },
             "1 egg white",
-            "1 Death & Co House Peychaud's Bitters as garnish"
+            {
+                "ingred_amount": "1",
+                "ingred_unit": "dash",
+                "ingred_name": "Death & Co House Peychaud's Bitters as garnish"
+            }
         ],
         "instructions": [
             "Dry shake all ingredients",

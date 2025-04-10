@@ -16,8 +16,6 @@ cocktail_society.json
 - Convert amounts to amounts, not strings
 
 liquor_com_drinks.json
-- Clean newlines, convert ascii fractions into numbers
-- newlines, has some spots where ingredients start with "ounces"
 - some ingredients don't have an amount or unit and are like "Garnish: basil leaf"
 - "ingred_name": "3 ounces club soda, chilled, to top", and similar, need 3 deleted
 
